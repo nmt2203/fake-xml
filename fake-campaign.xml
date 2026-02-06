@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <data>
+   <campaign>
+    <name>（アプリ）受入れ確認用 テスト案件 ( test moi nhat 5/11/2025) </name>
+    <advertisement>
+      <name>テスト20</name>
+      <id>22618</id>
+      <payment>160</payment>
+      <period>0</period>
+      <point>1</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21403</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=19b2b79d223c6099b65639b6d58f01e6f478e9a958cd1536ac54fb9547262b3a&amp;campaign_id=21403&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>499979</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
   <campaign>
     <name>スマートパス</name>
     <advertisement>
@@ -26,6 +53,271 @@
     <start_time>2010-01-01 00:00:00</start_time>
     <subscription_duration>0</subscription_duration>
     <url></url>
+  </campaign>
+  <campaign>
+    <name>カイブツクロニクル（テスト用）</name>
+    <advertisement>
+      <name>インストール</name>
+      <id>2079</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>ソーシャルRPG「カイブツクロニクル」ついに登場。友達と無料で遊べるRPGゲームです。
+
+【特徴】
+・豊富なミッション
+ミッションをクリアする事で、自分を鍛えましょう。ボスを倒せば、次のエリアが開放されさらなる冒険へ旅立てます。
+
+・無限に存在する装備
+武器や防具は無限に存在します。レアなアイテムを手に入れて、友達に自慢しましょう。
+
+・友達と遊べるRPG
+巨大なボスと戦える「サーガ」では、数百人で一緒に戦う事ができます。倒すことが出来れば、レアアイテムを入手するチャンスも。
+
+・少しの時間で遊べる
+サクサクとゲームは進むので、通学・通勤時間や寝る前など自分のペースで楽しむことが出来ます。
+
+・無料アップデート
+毎月のように遊べるコンテンツが増えていきます。友達を誘って一緒に「カイブツクロニクル」の世界を冒険しよう。
+
+【世界観】
+怪物と人間が、果てし無き争いを続ける遠未来。遠い過去に未曽有の大災害により、人間は深海に逃げる事により、絶滅の危機を逃れた。100年の時を経て地上へ戻った人間が目撃したのは、異形の存在「怪物」だった。ここに、人類と怪物の果てし無き戦いが幕を開ける事となった。あなたは怪物となって人間を殲滅するか、人間となって怪物を駆逐するかを選ぶ事が出来ます。自分の好きな陣営につきカイブツクロニクルの世界で生き抜き、自分の陣営を勝利に導いてください。</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2030-01-25 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>1700</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=971f0fb53f461cd34bcab48e4b69a4184976b2134bbc723c9163d619506cd00c&amp;campaign_id=1700&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>1000</remaining>
+    <remark>test</remark>
+    <start_time>2022-01-25 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>http://itunes.apple.com/jp/app/id414644574</url>
+  </campaign>
+  <campaign>
+    <name>商品購入</name>
+    <advertisement>
+      <name>商品購入</name>
+      <id>8579</id>
+      <payment>16</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>5</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>仮</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2033-11-18 15:03:46</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>7843</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=89ee532a1ab0b737b238dfb4fc81d8b466d1aefa95afb7d4c527faf7c18ca4b5&amp;campaign_id=7843&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>500</price>
+    <remaining>NULL</remaining>
+    <remark>仮</remark>
+    <start_time>2013-11-18 15:03:46</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>受入れ確認用 ビデオオンデマンド「U-NEXT」</name>
+    <advertisement>
+      <name>無料お試し申込</name>
+      <id>11050</id>
+      <payment>1280</payment>
+      <period>0</period>
+      <point>10</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>26</category_id>
+    <detail>日本最大級のビデオオンデマンド＜U-NEXT＞！
+映画、ドラマ、アニメなどの動画が最新作から名作まで充実！
+スマホで1000ch以上の音楽放送も楽しめる！PC、スマートフォン、タブレット、テレビなどで今すぐ
+「観て」「聴いて」楽しめる新しいエンターテインメントサービスです！
+
+■最新映画はレンタル同時配信■
+貸出中の心配なし！レンタルビデオの新作コーナーがあなたの手元に！過去の名作も！
+
+■地上波テレビドラマを追っかけ配信■
+放送中のドラマから懐かしのドラマも豊富！もう見逃しても心配ありません！
+
+■海外・韓流ドラマの決定版■
+見始めたらもう止まらない作品が盛りだくさん！時間の許す限りイッキに楽しめます！
+
+■アニメ見るならU-NEXT■
+国民的な娯楽であるアニメをとことん楽しめます。キッズ向け作品も多数配信！
+
+※成人向けの作品も31日間無料トライアルで視聴可能ですが、ペアレンタルロック機能で非表示にすることも可能です。今ならビデオ見放題、音楽聴き放題が31日間無料でお楽しみ頂けます！さらに最新作などが楽しめるU-NEXTポイント1000円分もプレゼント！
+
+【成果に関するお問い合わせについて】
+成果のお問い合わせを頂く際は、以下の内容が必要となる場合がございます。
+各スポンサーにご登録された際には、こちらの内容を必ず保管してください。
+■スポンサー名
+■申込日
+■登録日/面談日
+■会員ID,請求書ID,予約番号（または登録時のニックネーム・氏名）
+■メールアドレス  （登録の際に入力したもの）
+■登録完了メール内容(申込者の住所・電話番号等は削除の上)
+</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2033-01-17 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/11011.png</icon>
+    <id>10245</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=ece504739812214bcd3b3d7c38b707b5dee04e91db28eac25fba678b5a646aa2&amp;campaign_id=10245&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>https://image.j-a-net.jp/1353346/543861/</remark>
+    <start_time>2023-01-17 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>GreeRewardAsp1028</name>
+    <advertisement>
+      <name>多段階テスト</name>
+      <id>21396</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>tutorial条件達成</name>
+      <id>21397</id>
+      <payment>160</payment>
+      <period>0</period>
+      <point>1</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>21</category_id>
+    <detail>GreeRewardAsp1028</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2031-04-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>10614</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=aa0519655f974ebe51c5f0bf0a830518ed28a69019277e1345117a0a45372445&amp;campaign_id=10614&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>Test</remark>
+    <start_time>2021-04-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>AbemaTV</name>
+    <advertisement>
+      <name>インストール後起動</name>
+      <id>13992</id>
+      <payment>1440</payment>
+      <period>0</period>
+      <point>12</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>4</category_id>
+    <detail>AbemaTV（アベマティーヴィー）は2016年4月11日（月）に本開局を予定しており、以降は、オリジナルの生放送コンテンツや、ニュース、音楽、スポーツ、など多彩な番組が楽しめる約20チャンネルをすべて無料で提供します。
+
+【一部先行配信チャンネル】
+・AbemaNews
+・AbemaSPECIAL
+・AbemaRADIO
+・MUSIC
+・アニメ24
+・WORLD SPORTS
+・EDGE SPORT
+・Documentary
+・釣り
+・ペット
+・麻雀
+・CLUB
+全て無料で視聴できます。
+
+【会員登録不要！】
+会員登録なしで誰でもすぐに気になるチャンネルを視聴できます。
+
+【wifiをつなげば画質がキレイ＆早い】
+wifi環境下(※1)では、動画読み込み時間が少なく、スムーズな番組視聴とチャンネルの切り替えが可能です。
+※(1)wifi環境でのご利用を推奨しておりますが、通信環境によって画質や通信速度が異なります。
+
+【見たい番組を見逃さない】
+気になる番組を番組表などでチェックすると、放送開始時に通知が届きます。
+番組の放送予定は番組表でチェックしてみて下さい。
+
+【こんな方におすすめ】
+・テレビを家でゆっくり見ている時間がない方
+・移動中などの隙間時間に動画で暇つぶししたい方
+・手軽に情報収集ができるキュレーションアプリが好きな方
+
+
+【お問い合わせ】
+不具合報告、その他お問い合わせは下記アドレスまでお問い合わせください。
+info@support.abema.tv
+
+
+-------------------------------
+JASRAC許諾第9016941001Y45038号
+JRC許諾番号: X000670B01L
+イーライセンス許諾番号: ID34396
+-------------------------------
+</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2030-12-31 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>13117</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=644f523d0061a2fbc859dc9b75a8bda9cff2a9ada987f992b43acec81a08b7dd&amp;campaign_id=13117&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>5555</remaining>
+    <remark>仮</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>https://itunes.apple.com/jp/app/abematv/id1074866833?mt=8</url>
+  </campaign>
+  <campaign>
+    <name>テスト①(2016/4/4）</name>
+    <advertisement>
+      <name>インストール後起動</name>
+      <id>14008</id>
+      <payment>48</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>49</category_id>
+    <detail>仮</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2030-12-31 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/14030.png</icon>
+    <id>13133</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=a0961089716d615633a037a5fed716da71abc07ec409a14ebfa7b4ed4d8f0a21&amp;campaign_id=13133&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>1000</price>
+    <remaining>4999</remaining>
+    <remark>アプリインストール後、起動で成果
+
+※過去、アプリをインストールされたことのある方は対象外となります。
+※成果が反映されない場合は、アプリを終了した上でバッググラウンド(タスク)を切り、もう一度起動をお願いいたします。
+※広告クリックから成果に至るまで、同一ブラウザ内（iOSは「safari」、Androidは「標準ブラウザ」）で遷移されていない場合、成果対象外となります。</remark>
+    <start_time>2016-04-07 18:00:00</start_time>
+    <subscription_duration>30</subscription_duration>
+    <url>https://itunes.apple.com/jp/app/arubaitoex-baito-pato-qiu/id924813230?mt=8</url>
   </campaign>
   <campaign>
     <name>Bonusテスト２</name>
@@ -108,5 +400,4512 @@
     <subscription_duration>0</subscription_duration>
     <url></url>
   </campaign>
-  <last_update>2026-02-06 12:45:21</last_update>
+  <campaign>
+    <name>niconico（500円(税抜)コース）</name>
+    <advertisement>
+      <name>500円(税抜)コース登録</name>
+      <id>15424</id>
+      <payment>1840</payment>
+      <period>0</period>
+      <point>15</point>
+      <requisite>3</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>37</category_id>
+    <detail>niconicoは日本最大級の動画サービスです。ひとつのアカウントがあればスマートフォン、PCなどのデバイスでいつでもどこでも好きな時にご利用頂けます。</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2999-12-31 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/15501.png</icon>
+    <id>14449</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=446331d3fc7cae48284b1aaeffec45f6f626c70b9cb3842cc6154542b280a187&amp;campaign_id=14449&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>500</price>
+    <remaining>NULL</remaining>
+    <remark>https://image.smart-c.jp/i?i=0KVrun4eu2Eo00Itq</remark>
+    <start_time>2018-04-03 00:00:00</start_time>
+    <subscription_duration>30</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>FINCプレミアム（お試し無料次月以降889円(税抜)コース）</name>
+    <advertisement>
+      <name>無料会員登録</name>
+      <id>15425</id>
+      <payment>1020</payment>
+      <period>0</period>
+      <point>8</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>33</category_id>
+    <detail>無料登録するだけで... ＿ダイエットやトレーニング、生活習慣改善などのプロにマンツーマンでチャット相談し放題！ ＿体重はもちろん、体脂肪や筋肉量、体内年齢など11項目を測定できる体組成計がレンタルできる！ ＿あなたの健康作りをサポートする、全国の有名ジムや娯楽施設が特別優待で使える！ ＿スマホを持ち歩くだけでポイントが貯まるから、毎月最大1,000円分の買い物ポイントがもらえる！</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2999-12-31 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/15502.png</icon>
+    <id>14450</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=6e533f1dd1ac7c4b962e13f635c403a67ab03ef9608adc4ac98a6880f60d950d&amp;campaign_id=14450&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>https://image.smart-c.jp/i?i=0burX34kgFN800Itq</remark>
+    <start_time>2018-04-03 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>【再登録OK】食べログ（300円(税抜)コース）</name>
+    <advertisement>
+      <name>300円(税抜)コース登録</name>
+      <id>15427</id>
+      <payment>1040</payment>
+      <period>0</period>
+      <point>8</point>
+      <requisite>3</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>37</category_id>
+    <detail>≪食べログ プレミアムサービス≫・食べログ独自の点数（お店の格付け）で、すぐに美味しいお店が見つかる！・どこよりもお得な会員限定クーポンが使える！（最低20%～最大100%OFF！）</detail>
+    <duplication_type>2</duplication_type>
+    <end_time>2999-12-31 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/15504.png</icon>
+    <id>14452</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=f54954d00520f4410c2991ddfa23f7176eb0343b35a67a65afc629d8f09287b6&amp;campaign_id=14452&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>300</price>
+    <remaining>NULL</remaining>
+    <remark>https://image.smart-c.jp/i?i=3x7IXo4uDbIR00Itq</remark>
+    <start_time>2018-04-04 00:00:00</start_time>
+    <subscription_duration>30</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>dTV</name>
+    <advertisement>
+      <name>無料お試し登録</name>
+      <id>15429</id>
+      <payment>160</payment>
+      <period>0</period>
+      <point>1</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>26</category_id>
+    <detail>dTV「花にけだもの」好評配信中！ 会員登録完了後、登録完了画面からdTVサイトに遷移で成果。 
+------------------------------------------------- 
+dTVは作品NO.1の動画配信サービス。 
+人気の映画・ドラマ・アニメ・音楽など12万作品が、初回31日間無料で見放題！ 
+------------------------------------------------- 
+大人気コミック「花にけだもの」の実写ドラマを好評配信中！ 【キャスト】 中村ゆりか 杉野遥亮 松尾太陽 甲斐翔真 入山杏奈 
+------------------------------------------------- 
+※docomoユーザー以外の方も登録OKです。 
+※無料お試し登録は初回のみです。 【重要】 
+※docomoサイトで登録を完了した場合でも、登録完了ページからdTVへの「今すぐクリック！」をタップしてdTVページを表示しなかった場合、成果対象外となります。 
+※無料おためし期間中に解約された場合、月額利用料金（500円税抜）はかかりません。 【成果に関するお問い合わせについて】 成果のお問い合わせを頂く際は、以下の内容が必要となる場合がございます。 各スポンサーにご登録された際には、こちらの内容を必ず保管してください。 
+■スポンサー名 
+■申込日</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2999-12-31 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/15506.png</icon>
+    <id>14454</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=8259726cdfeaf579c128b60c194f2d51ecd7cfeb7457531be54162eeab50787f&amp;campaign_id=14454&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>https://image.j-a-net.jp/1353346/626685/</remark>
+    <start_time>2018-04-04 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>ひかりTVミュージック（お試し無料次月400円(税抜)コース）</name>
+    <advertisement>
+      <name>無料会員登録</name>
+      <id>15430</id>
+      <payment>640</payment>
+      <period>0</period>
+      <point>5</point>
+      <requisite>3</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>34</category_id>
+    <detail>初月無料！無料期間中にもポイントがもらえるおトクなコース。 音楽を買うなら&lt;&lt;ひかりＴＶミュージック&gt;&gt; 月額ポイントプランの申込みで、 毎月ポイントが自動で貯まる！貯まったポイントで話題の新曲をゲット！ ・どなたでもご利用可能 ・ 450万曲以上の豊富なラインナップ ・スマホ、PCで聴きたい曲がすぐに買える ・一度買った曲は再DLが可能 ・ 割引クーポンやポイント還元などおトクなキャンペーンを随時実施中</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2999-12-31 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/15507.png</icon>
+    <id>14455</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=212f3685fdb31bf4e815830ff7b311bee1daac449575b3c701969d104a8461cf&amp;campaign_id=14455&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>https://image.smart-c.jp/i?i=4oZAPJ1ueiWF00Itq</remark>
+    <start_time>2018-04-04 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>dアニメストア　ニコニコ支店（400円(税抜)コース）</name>
+    <advertisement>
+      <name>400円(税抜)コース登録</name>
+      <id>15431</id>
+      <payment>1600</payment>
+      <period>0</period>
+      <point>13</point>
+      <requisite>3</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>37</category_id>
+    <detail>「ｄアニメストア ニコニコ支店」は1,500以上のアニメ作品が月額432円（税込）の定額で見放題！テレビで放送中の最新のアニメ作品から定番作品まで幅広いアニメをコメントつきで楽しめます。</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2999-12-31 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/15508.png</icon>
+    <id>14456</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=f00e29bc06b2e1699f9e43e0f8c3863f1c22005109ba00e68e5de9671fb6574e&amp;campaign_id=14456&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>400</price>
+    <remaining>NULL</remaining>
+    <remark>https://image.smart-c.jp/i?i=0SSt5w4FB2DM00Itq</remark>
+    <start_time>2018-04-04 00:00:00</start_time>
+    <subscription_duration>30</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>ドラゴンエッグ</name>
+    <advertisement>
+      <name>インストール後起動</name>
+      <id>15433</id>
+      <payment>2160</payment>
+      <period>0</period>
+      <point>18</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>激闘！リアルタイム大戦略バトル！！ ドラゴン　VS 　ドラゴン！？ 仲間と共に“ギルドラ”を育てて、白熱の“ギルドバトル”に勝利せよ！</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2030-12-31 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/15510.png</icon>
+    <id>14458</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=d11acaad86d211b28ce2fc1246440c444aa17ded4fdbdde8d6378dd7f725724a&amp;campaign_id=14458&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>3703</remaining>
+    <remark>アプリインストール後、起動で成果。 ※過去、アプリをインストールされたことのある方は対象外となります。 ※成果が反映されない場合は、アプリを終了した上でバッググラウンド(タスク)を切り、もう一度起動をお願いいたします。 ※広告クリックから成果に至るまで、同一ブラウザ内で遷移されていない場合、成果対象外となります。 ※海外IPはアクセスおよび成果対象外となります。</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>https://itunes.apple.com/jp/app/id985900455</url>
+  </campaign>
+  <campaign>
+    <name>刀使ノ巫女-刻みし一閃の燈火-</name>
+    <advertisement>
+      <name>インストール後起動</name>
+      <id>15434</id>
+      <payment>2000</payment>
+      <period>0</period>
+      <point>17</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>▼アニメとリンクする物語 ゲームオリジナルキャラクター安桜美炎たちの視点でアニメ本編と並行して進行。 時にアニメとリンクしつつも、アニメ本編の裏で起こっていたもうひとつの刀使たちの奮闘劇がフルボイスで描かれる！ ▼剣戟コマンドバトルRPG 重ねる度に威力が増す「連携攻撃」や、3DCGで描かれたド迫力＆超強力な「奥義」を駆使して荒魂を斬って祓え！ 様々な特殊効果をもたらす「サポートメンバー」のスキルも勝利のカギを握る！ ▼奥深い部隊編成 ＜隊列＞によって刀使たちの能力は変動する。 さらに、御刀や護符などを装備したり、強化素材を用いることで自身を強化。 自由度の高いカスタマイズが楽しめる！ ▼お気に入り衣装で出撃 刀使たちの衣装は、入手した衣装やアクセサリーに自由に変更することが可能。 今後も様々な衣装が登場予定。お気に入り衣装に着替えて、いざ荒魂退治へ！ ほかにも、他プレイヤーの刀使たちと腕を競い合う「演武大会」、ミニマップを探索する「大荒魂討伐戦」など、遊べる要素は盛りだくさん！</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2030-12-31 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/15511.png</icon>
+    <id>14459</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=7eb7829e00ebed80c43f7ba3549e21f4b4eac249101cc962b7a6336953fe3f12&amp;campaign_id=14459&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>3999</remaining>
+    <remark>アプリインストール後、起動で成果。 ※過去、アプリをインストールされたことのある方は対象外となります。 ※成果が反映されない場合は、アプリを終了した上でバッググラウンド(タスク)を切り、もう一度起動をお願いいたします。 ※広告クリックから成果に至るまで、同一ブラウザ内で遷移されていない場合、成果対象外となります。 ※海外IPはアクセスおよび成果対象外となります。</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>https://itunes.apple.com/jp/app/id1273642709?mt=8</url>
+  </campaign>
+  <campaign>
+    <name>ドラゴンエッグ</name>
+    <advertisement>
+      <name>インストール後起動</name>
+      <id>15435</id>
+      <payment>56</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>38</category_id>
+    <detail>激闘！リアルタイム大戦略バトル！！ ドラゴン　VS 　ドラゴン！？ 仲間と共に“ギルドラ”を育てて、白熱の“ギルドバトル”に勝利せよ！</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2030-12-31 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/15512.png</icon>
+    <id>14460</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=fa1dd84f513cc68f14977423cbf6f11fac67b3c2da8cf3a7133f1ac026a802c6&amp;campaign_id=14460&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>142856</remaining>
+    <remark>アプリインストール後、起動で成果。 ※過去、アプリをインストールされたことのある方は対象外となります。 ※成果が反映されない場合は、アプリを終了した上でバッググラウンド(タスク)を切り、もう一度起動をお願いいたします。 ※広告クリックから成果に至るまで、同一ブラウザ内で遷移されていない場合、成果対象外となります。 ※海外IPはアクセスおよび成果対象外となります。</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>https://play.google.com/store/apps/details?id=jp.dgeg.dragonegg2</url>
+  </campaign>
+  <campaign>
+    <name>頂上三国</name>
+    <advertisement>
+      <name>マルチミッション1</name>
+      <id>20781</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>最高の権力と領地を『頂上三国』で味わおう！覇業を成し遂げよ！ 乱世は誰によって終結されるのか？　戦略スマートフォンゲーム『頂上三国』のリアルな戦場の雰囲気を楽しみ、大いに暴れて、三国志の覇者になろう！ 特色 【豪華な陣容】 50人を超える三国志の武将が登場！勇敢な武将、智謀に長けた軍師、作戦を立てる将軍、その全てがあなたの手の中に！ 【5つの兵種】 槍兵、騎兵、戦車、弓兵、軍師。5つの兵種で出陣しよう！ 【1,000人同時プレイ】 1,000人同時のリアルタイム攻城戦に参加し、伝説の戦いを楽しもう。戦略を練り、チームワークで勝利を収めよう！ 【豊富な育成要素】 武将のレベルアップ、進階、昇星、天賦、神器。多数のシステムで武将が育成可能に。 【多種多様なスキル】 200を超えるスキルの組み合わせで、武将の力を引き出そう！ 【攻城戦】 60個のお城が攻略可能。それぞれ特産品が異なるぞ！</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2030-12-31 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/15513.png</icon>
+    <id>14461</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=7b19940b9fa1470e6a3e0925f347288491a8215615a69d7791c02f7dbeb66640&amp;campaign_id=14461&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>100000</remaining>
+    <remark>アプリインストール後、起動→プッシュ通知選択で成果。 ※過去、アプリをインストールされたことのある方は対象外となります。 ※成果が反映されない場合は、アプリを終了した上でバッググラウンド(タスク)を切り、もう一度起動をお願いいたします。 ※広告クリックから成果に至るまで、同一ブラウザ内で遷移されていない場合、成果対象外となります。 ※海外IPはアクセスおよび成果対象外となります。</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>https://itunes.apple.com/jp/app/id1282971607</url>
+  </campaign>
+  <campaign>
+    <name>任侠伝</name>
+    <advertisement>
+      <name>インストール後起動</name>
+      <id>15438</id>
+      <payment>56</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>38</category_id>
+    <detail>◆初心者応援キャンペーン実施中！ なんと新規登録でレア侠客11連ガチャが1回無料！さらに侠石2000個（2000円相当）プレゼント！ 【ゲームについて】 簡単操作で本格バトル！！ 全国の仲間を集めて、最強の組織を立ち上げよう！！ 【ゲームシステム】 ◆毎日開催される全国組織バトル！！ たくさんの仲間と出会い、目指すは『全国最強組織』！ 仲間のために力を尽くし【任侠の華】となれ！ 迫りくる組織との抗争に勝利し全国制覇を成し遂げよう！ ◆ライバルたちとタイマンバトル！！ 全国の喧嘩相手を倒して自身の階級をアップさせよう！ さらに大会や討伐などイベントも満載！ ランキング上位に入れば、豪華報酬がもらえるぞ！ ◆SNS要素が盛りだくさん！ 組織チャットや仲間への応援機能など 様々な機能を活用して、組織内コミュニティや 己が任侠生活を盛り上げよう！ ◆自分だけのオリジナルキャラでバトル！！ アバターの組み合わせは100万通り以上と充実！ 90年代、極道、バラエティ、セクシー系など 様々なアバターでビシッと決めよう！ ◆個性豊かで屈強な侠客たち！！ ヤクザ、殺し屋、ホスト、ギャング、姐御・・・ レアガチャからは色々なタイプの侠客たちが出現！ 仲間にした侠客は最大5人までパーティーに加わり、 己が最強への道を手助けしてくれるぞ！</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2030-12-31 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/15517.png</icon>
+    <id>14463</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=05bfe7f277bbaa2ba7247d8059eb0789d4c11d75effdd6b7c955ead8db3ea136&amp;campaign_id=14463&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>142857</remaining>
+    <remark>アプリインストール後、起動で成果。 ※過去、アプリをインストールされたことのある方は対象外となります。 ※成果が反映されない場合は、アプリを終了した上でバッググラウンド(タスク)を切り、もう一度起動をお願いいたします。 ※広告クリックから成果に至るまで、同一ブラウザ内で遷移されていない場合、成果対象外となります。 ※海外IPはアクセスおよび成果対象外となります。</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>StagerLive</name>
+    <advertisement>
+      <name>インストール後起動</name>
+      <id>15439</id>
+      <payment>20</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>16</category_id>
+    <detail>Stager Live（ステージャー・ライブ）とは？誰でも手軽に使える、無料で配信＆視聴できるアプリです。 Stager Liveを使えば“イマ”この瞬間からあなたの才能を世界に向けてライブ配信できます。 私達は一人ひとり特別な才能と自分にしかないストーリーを持っているはずです。 Stager Liveはそんな皆さんにオンラインでの“あなただけのステージ”を提供します。皆さんの才能、オリジナルのストーリーを表現しませんか？ 世界中の視聴者とコミュニケーションしながら、新しい出会いをつくりましょう。</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2030-12-31 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/15518.png</icon>
+    <id>14464</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=ae74d6b06cc0df0aa31068737506722c69144000b72a5e93ee080d4c263fca63&amp;campaign_id=14464&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>400000</remaining>
+    <remark>アプリインストール後、起動で成果。 ※過去、アプリをインストールされたことのある方は対象外となります。 ※成果が反映されない場合は、アプリを終了した上でバッググラウンド(タスク)を切り、もう一度起動をお願いいたします。 ※広告クリックから成果に至るまで、同一ブラウザ内で遷移されていない場合、成果対象外となります。 ※海外IPはアクセスおよび成果対象外となります。</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>https://itunes.apple.com/jp/app/id1130211623</url>
+  </campaign>
+  <campaign>
+    <name>ミリオンモンスター</name>
+    <advertisement>
+      <name>インストール後起動→チュートリアルでガチャをまわす</name>
+      <id>15440</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>18</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>38</category_id>
+    <detail>モンスターを育成して全国のプレイヤーと対戦しよう！ 無数のモンスターと戦い、仲間となり、共に成長していく！ やりこみ要素満載の対戦型RPG『ミリオンモンスター』</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2030-12-31 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/15519.png</icon>
+    <id>14465</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=29dfe286f5d6755caefffd6c829548e8eb7c420f36ad697c79b1251adf1ae045&amp;campaign_id=14465&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>100000</remaining>
+    <remark>アプリインストール後、起動→チュートリアルでガチャをまわして成果。 ※成果地点までの所要時間：約10分 ※過去、アプリをインストールされたことのある方は対象外となります。 ※成果が反映されない場合は、アプリを終了した上でバッググラウンド(タスク)を切り、もう一度起動をお願いいたします。 ※広告クリックから成果に至るまで、同一ブラウザ内で遷移されていない場合、成果対象外となります。 ※海外IPはアクセスおよび成果対象外となります。</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>https://play.google.com/store/apps/details?id=jp.co.ex.million_monster&amp;hl=ja</url>
+  </campaign>
+  <campaign>
+    <name>board</name>
+    <advertisement>
+      <name>インストール後起動→会員登録完了</name>
+      <id>15450</id>
+      <payment>72</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>20</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>23</category_id>
+    <detail>board(ボード)は、写真を使って、とっても簡単に「さわってめくれる」電子アルバム(ボードアルバム)を作れるアプリです。 ご利用は無料！「ニックネーム」だけで簡単登録できます。Google、Twitter、Facebook、Yahoo! JapanのIDを使ってのご利用も可能です。 作ったボードアルバムは、家族や友達で共有したり、ほかの『board』ユーザーに公開することもカンタン！ 撮りためた写真を、簡単操作でボードにしよう。できたボードは自分だけの本棚に並ぶから、写真整理にも役立ちます！</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2999-12-31 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/15520.png</icon>
+    <id>14475</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=a5cf8dfcf94cd0f7863357e4ba205f1b2bc98142c8c94b4850d5ceb801dafe03&amp;campaign_id=14475&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>アプリインストール後、起動→会員登録完了で成果。 ※過去、アプリをインストールされたことのある方は対象外となります。 ※成果が反映されない場合は、アプリを終了した上でバッググラウンド(タスク)を切り、もう一度起動をお願いいたします。 ※広告クリックから成果に至るまで、同一ブラウザ内で遷移されていない場合、成果対象外となります。</remark>
+    <start_time>2018-04-09 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>https://bo-ard.com/</url>
+  </campaign>
+  <campaign>
+    <name>デジタルコードプレゼントキャンペーン</name>
+    <advertisement>
+      <name>キャンペーン応募</name>
+      <id>15452</id>
+      <payment>96</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>4</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>37</category_id>
+    <detail>Google PlayギフトカードやiTunesギフトがあたるプレゼントキャンペーン開催中！応募条件を満たした方に抽選でギフトコード3,000円分を毎月合計で100名様にプレゼントします。</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2999-12-31 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/15522.png</icon>
+    <id>14477</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=0b5bca515679b33f593f5b7095ab5e2caea0711f3dab7c60166c87f7f2b6278c&amp;campaign_id=14477&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>https://image.smart-c.jp/i?i=1bzWGm2oNQTs00Itq</remark>
+    <start_time>2018-04-09 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>パチスロ ガールズ＆パンツァー</name>
+    <advertisement>
+      <name>インストール後起動</name>
+      <id>15454</id>
+      <payment>40</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>2015年10月にホール導入された『パチスロ ガールズ＆パンツァー』が【777NEXT】に登場！ 大人気アニメがパチスロになった『パチスロ ガールズ＆パンツァー』が登場！ バランス重視のスペックと、出玉と演出が完全リンクしたバトルAT「戦車道」という2つの特性をいいとこどりした誰でも楽しみやすく、ハラハラできる「ハートフルタンクスペック」が本機の大きな特徴となっている。また、大画面液晶で展開される、原作の世界観が再現された演出群も、原作ファンでも納得の、ハイレベルかつ見所たっぷりの仕上がりだ！ 個性派ぞろいのキャラクターたちが戦車道で熱戦を繰り広げる、『パチスロ ガールズ＆パンツァー』を777NEXTで楽しもう！</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2030-12-31 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/15536.png</icon>
+    <id>14479</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=c74432229ba633205d5a9ebcfd79aca704d2dd398957e988534e9be162c0093f&amp;campaign_id=14479&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>200000</remaining>
+    <remark>アプリインストール後、起動→通知方法選択で成果。 ※過去、アプリをインストールされたことのある方は対象外となります。 ※成果が反映されない場合は、アプリを終了した上でバッググラウンド(タスク)を切り、もう一度起動をお願いいたします。 ※広告クリックから成果に至るまで、同一ブラウザ内で遷移されていない場合、成果対象外となります。 ※海外IPはアクセスおよび成果対象外となります。</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>bitFlyer ウォレット</name>
+    <advertisement>
+      <name>インストール後起動</name>
+      <id>15455</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>47</category_id>
+    <detail>日本最大級のビットコイン取引所[bitFlyer]が提供する仮想通貨アプリの決定版。[bitFlyer ウォレット]はスマホで簡単・安全にビットコインの購入や売買ができるアプリです。</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2030-12-31 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/15537.png</icon>
+    <id>14480</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=95ddee8b3a04fa13df7e591321b9ca7dddd158699d95dacfe8086200663c935f&amp;campaign_id=14480&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>100000</remaining>
+    <remark>アプリインストール後、起動で成果。 ※過去、アプリをインストールされたことのある方は対象外となります。 ※成果が反映されない場合は、アプリを終了した上でバッググラウンド(タスク)を切り、もう一度起動をお願いいたします。 ※広告クリックから成果に至るまで、同一ブラウザ内で遷移されていない場合、成果対象外となります。 ※海外IPはアクセスおよび成果対象外となります。</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>ニコニコチャンネル週刊文春デジタル</name>
+    <advertisement>
+      <name>800円(税抜)コース登録</name>
+      <id>17717</id>
+      <payment>800</payment>
+      <period>0</period>
+      <point>6</point>
+      <requisite>3</requisite>
+    </advertisement>
+    <advertisement>
+      <name>800円(税抜)コース登録</name>
+      <id>15456</id>
+      <payment>2000</payment>
+      <period>0</period>
+      <point>17</point>
+      <requisite>3</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>37</category_id>
+    <detail>週刊文春の電子版、週刊文春デジタル。記事配信は雑誌発売日の午前5時、デジタル版のみ配信のスクープ画像も掲載。月額800円(税抜)で最新号及びバックナンバー合わせて5冊読めてオトク！</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2999-12-31 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/15538.png</icon>
+    <id>14481</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=7f1bb5e8fdfe4d15edccf56e474a3ff04e837823caafb793e42509e5cd99e19f&amp;campaign_id=14481&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>800</price>
+    <remaining>NULL</remaining>
+    <remark>https://image.smart-c.jp/i?i=2CSu282xqaaP00Itq</remark>
+    <start_time>2018-04-09 00:00:00</start_time>
+    <subscription_duration>30</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>楽天マガジン（お試し無料32日目以降380円(税抜)コース）</name>
+    <advertisement>
+      <name>無料お試し登録</name>
+      <id>15458</id>
+      <payment>320</payment>
+      <period>0</period>
+      <point>2</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>26</category_id>
+    <detail>楽天が提供する定額制雑誌読み放題サービス「楽天マガジン」月額380円（税抜）で約200雑誌が読み放題！更にお得な年額3,600円（税抜）プランもご用意！31日間無料でお試しでき、楽店ポイントも貯まる！最大5台のスマートフォン・タブレットで利用が可能で、独自の記事まとめで話題のトピックをチェック！多彩なジャンルの雑誌が読み放題の「楽天マガジン」を是非お試しください！</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2999-12-31 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/15540.png</icon>
+    <id>14483</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=e67eb43a49a52b16bf4aed573c29bafaf07f2f8be5d4e0c5ee8f0bd6c2d6b5c6&amp;campaign_id=14483&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>無料会員登録で成果</remark>
+    <start_time>2018-04-09 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>【Yahoo!】新規アンケート回答プログラム</name>
+    <advertisement>
+      <name>アンケート回答（エントリー）完了</name>
+      <id>15459</id>
+      <payment>20</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>7</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>57</category_id>
+    <detail>アンケート回答で最大13万円分のENEOSプリカプレゼント</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2999-12-31 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/15541.png</icon>
+    <id>14484</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=425f4995cae40ca0be9195be480c4505931b929bb2e665a0bdd0cffd3b78a844&amp;campaign_id=14484&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>https://rwdimg.glossom.jp/static/images/site/213951519955318ja.jpeg?1519987718</remark>
+    <start_time>2018-04-09 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>ひかりTVブック（お試し無料次月400円(税抜)コース）</name>
+    <advertisement>
+      <name>無料会員登録</name>
+      <id>15460</id>
+      <payment>10</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>26</category_id>
+    <detail>初月無料！無料期間中にもポイントがもらえるおトクなコース。 月額プランのご利用で、電子書籍をお得にご利用いただけます。 ひかりＴＶブックが発行するブックポイントは、1ポイント＝1円で当ストアで販売中の全作品の購入に充てることができます。 あらかじめ月額ポイントを購入することで、ボーナスポイントが貯まり、本をお得に購入することができます！</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2999-12-31 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/15542.png</icon>
+    <id>14485</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=d3e56c59453f1d1a98011158ce42deaa5921e384ca9df090e9bb2e648745b5d4&amp;campaign_id=14485&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>無料お試し登録で成果。
+
+＜登録までの手順＞
+1）あああああああああ
+↓
+2）いいいいいいいいい
+↓
+3）ううううううううう
+↓
+4）えええええええええ
+↓
+5）おおおおおおおおお
+
+※成果の反映までに1時間程度かかる場合があります。
+※広告クリックから成果に至るまで、同一ブラウザで行わないと成果対象外となります。
+※iOSおよびAndroidのdocomo、au、SBのみ成果対象となります
+※お試し期間は当月内までとなります。それ以降は月額900円(税抜)コースに自動移行となりますのでご注意ください。
+※過去、月額900円(税抜)コースに登録済みの方は成果対象外となります。
+※問い合わせ時には月額ポイントプランIDが必要となります</remark>
+    <start_time>2018-04-09 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>配信用6</name>
+    <advertisement>
+      <name>無料会員登録</name>
+      <id>16164</id>
+      <payment>4</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>仮</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2029-01-29 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/16295.png</icon>
+    <id>15189</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=a147bcc5de9d375dab497517f33ddf9f422bf33db322444c7a77a0291e3582d3&amp;campaign_id=15189&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>注意事項
+▼成果条件
+・新規アプリインストール後、3日以内に初回投票完了で成果
+
+【成果受付期間】インストール後、3日以内
+【成果調査受付期間】案件クリック後、30日以内
+
+
+▼却下条件
+・インストールから4日以上経過して成果条件まで到達した場合は成果対象外となります。
+・本ページ経由以外のインストールは成果対象外となります。
+・過去にアプリをダウンロードしたことがある場合は成果対象外となります。
+・過去に成果地点まで到達したことがある場合は成果対象外となります。
+・成果調査依頼時に該当アプリをアンインストールしている場合は成果対象外となります。
+・案件クリックから成果に至るまで、同一ブラウザ内で遷移されていない場合、成果対象外となります。
+・案件クリックから1時間以内に初回成果地点まで完了しなかった場合、成果対象外となることがあります。
+・海外IPはアクセスおよび成果対象外となります。
+
+
+▼注意事項
+・使用中のアプリと、チャレンジ中のアプリでトラッキングが オフになっていると、ポイントが付与できなくなります。端末の下記設定で変更ができます。 「プライバシー」 ⇒「トラッキング」⇒ 「 App からのトラッキング要求を許可（iOSのみ）
+・成果調査の際には成果達成画面のキャプチャに対象ゲームアプリ(サイト)名を付けた物を請求させていただく場合がございます。
+・インストールしてから開始まで1時間以上かかる場合はアプリ初回起動前に再度案件をクリックしてください。
+
+
+▼成果調査に関して
+・成果条件達成後にポイントが未付与の場合、本サイトのお問合せフォームよりご連絡ください。
+・直接スポンサーサイトへ問い合わせることはお控えください。
+・クリック発生から31日以上経過したものは調査不可となります。
+・ポイント未付与に関する調査の際は下記が必要になりますのでご準備ください。
+■成果地点に到達したことが確認出来るキャプチャ</remark>
+    <start_time>2019-01-29 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テストアプリ003</name>
+    <advertisement>
+      <name>インストール後の条件達成</name>
+      <id>16672</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <budget_is_unlimited>true</budget_is_unlimited>
+    <category_id>38</category_id>
+    <detail>test</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2029-05-16 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/2.png</icon>
+    <id>15697</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=3305bab9e2c1e06ff6c1c07781374e3454137e6440edf6e3c82107b9c9229f8d&amp;campaign_id=15697&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>10</price>
+    <remaining>NULL</remaining>
+    <remark>test</remark>
+    <start_time>2019-05-16 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>http://itunes.apple.com/jp/app/flight-control/id306220440</url>
+  </campaign>
+  <campaign>
+    <name>PERKSテスト</name>
+    <advertisement>
+      <name>インストール</name>
+      <id>18383</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>21</category_id>
+    <detail>あ</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2030-02-14 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>17406</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=ffee5aaf6ece6e541fdc73bc6c427b6910026af2a7203c2be39eba7327490f99&amp;campaign_id=17406&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>あ</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テストアプリ(古川)</name>
+    <advertisement>
+      <name>インストール</name>
+      <id>18533</id>
+      <payment>40</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>1</requisite>
+    </advertisement>
+    <advertisement>
+      <name>チュートリアル完了</name>
+      <id>18534</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>18</requisite>
+    </advertisement>
+    <advertisement>
+      <name>install3</name>
+      <id>18535</id>
+      <payment>40</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>1</requisite>
+    </advertisement>
+    <budget_is_unlimited>true</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>test</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2030-05-13 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>17554</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=9319d9eeaf78ba6db89a888c454f606d63fef75e5b1ba68a53b1e759f83943ce&amp;campaign_id=17554&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>test</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>https://example.com</url>
+  </campaign>
+  <campaign>
+    <name>楽天カード</name>
+    <advertisement>
+      <name>クレジットカード発券</name>
+      <id>18999</id>
+      <payment>4800</payment>
+      <period>0</period>
+      <point>40</point>
+      <requisite>10</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>126</category_id>
+    <detail>【成果達成までの流れ】
+
+▼楽天会員の方
+①楽天にログインする
+②「そのままお申込みへ」を選択
+③「基本情報」を入力し、「次へ」を選択
+④「勤務先情報」を入力し、「入力内容の確認へ」を選択
+⑤規約の「同意する」にチェックを入れ、「申し込みを完了する」を選択
+
+▼楽天会員でない方
+①「基本情報」を入力し、「次へ」を選択
+②「勤務先情報」を入力し、「入力内容の確認へ」を選択
+③規約の「同意する」にチェックを入れ、「申し込みを完了する」を選択
+
+
+年会費永年無料！どこでもポイントザクザク貯まる「楽天カード」
+
+楽天スーパーポイントが貯まる★
+カードご利用金額100円につき1ポイント貯まります。貯まったポイント
+は楽天市場・楽天ブックス・楽天トラベルなどでご利用いただけます。
+──────────────────────────────----
+■楽天市場でのお買い物で利用するとポイント+2倍
+──────────────────────────────----
+■街でもポイントが貯まる！ポイント加盟店。ポイント最大3倍
+──────────────────────────────----
+■楽天Edy利用でもポイントが貯まる！（Edy機能付きカードの場合）
+楽天Edy利用200円毎に楽天スーパーポイント1ポイントが貯まる。
+──────────────────────────────----
+■安心＆安全保険機能付きでネットショッピングも安心
+
+・カード利用をメールでお知らせ（カード利用お知らせメール）
+カードご利用後、最短で翌日、利用お知らせメールにて通知。
+不正利用も早期発見！
+
+・商品未着あんしん制度
+楽天市場内のご利用において商品未着にも関わらず店舗との連絡が
+困難な状態となった場合、請求を取り消し！
+
+・ネット不正あんしん制度
+インターネット上でのクレジットカード不正利用に対して補償あり！
+──────────────────────────────----
+
+他にも特典アリ！賢くポイントを貯めるならやっぱり楽天カード
+
+是非この機会にお申し込み下さい！！
+
+【成果に関するお問い合わせについて】
+成果のお問い合わせを頂く際は、以下の内容が必要となる場合がございます。
+各スポンサーにご登録された際には、こちらの内容を必ず保管してください。
+■スポンサー名
+■申込日
+■申込番号
+■申込完了メール(申込者の住所・電話番号等は削除の上)
+■カード番号下4桁（クレジットカード）
+■カード番号（ローンカード）
+■メールアドレス
+</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2030-11-27 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/19250.png</icon>
+    <id>18017</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=19a82a3c42e5d750c501a8795758abacefaf1489830824a74d9768c2f8ebd6d1&amp;campaign_id=18017&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>https://www.rakuten-card.co.jp/</remark>
+    <start_time>2020-11-27 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>U-NEXT</name>
+    <advertisement>
+      <name>無料会員登録</name>
+      <id>19001</id>
+      <payment>1440</payment>
+      <period>0</period>
+      <point>12</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>37</category_id>
+    <detail>日本最大級の動画サービス＜U-NEXT＞！
+映画、ドラマ、アニメなどの動画が最新作から名作まで充実！
+スマホで1000ch以上の音楽放送も楽しめる！
+PC、スマートフォン、タブレット、テレビなど最大4台同時視聴可能！
+
+■最新映画はレンタル同時配信■
+貸出中の心配なし！レンタルビデオより先行して配信する作品も！過去の名作も多数！
+
+■地上波テレビドラマを追っかけ配信■
+放送中のドラマから懐かしのドラマも豊富！もう見逃しても心配なし！
+
+■アニメ見るならU-NEXT■
+TV放送中の作品も多数配信。過去の名作やキッズ向け作品も充実！
+
+※成人向けの作品も31日間無料お試しで視聴可能ですが、
+ペアレンタルロック機能で非表示にすることも可能です。
+
+無料お試しでビデオ見放題（対象作品：18万本以上）、音楽聴き放題が31日間お楽しみ頂けます！
+さらに最新作などが楽しめるU-NEXTポイント600円分もプレゼント！
+
+※本キャンペーンを登録完了後、当サービスを10日以上ご利用頂く事を前提としております。</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2030-11-27 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/19249.png</icon>
+    <id>18019</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=9cacb7a22504bc106748a4b2e71f339d32dfa1ad87f3a257fe9c36a8f4b7d279&amp;campaign_id=18019&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>https://video.unext.jp/</remark>
+    <start_time>2020-11-27 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>クランクインビデオ</name>
+    <advertisement>
+      <name>1500円(税抜)コース登録</name>
+      <id>19002</id>
+      <payment>1840</payment>
+      <period>0</period>
+      <point>15</point>
+      <requisite>3</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>37</category_id>
+    <detail>ネットレンタルビデオサービス『クランクイン!ビデオ』のご案内です。お得な月額ポイント制VODサービス、ボーナスポイントあります。
+取扱いビデオ本数は10,000本以上、最新作映画も順次ラインナップ。1アカウントで5デバイスまで視聴可能です。
+テレビ、PC、スマートフォン、タブレット、chromecastに対応。</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2030-11-27 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/19251.png</icon>
+    <id>18020</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=fa64702bf697bbab393d49432d4746e516176a36f599a9e67227952540080389&amp;campaign_id=18020&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>1500</price>
+    <remaining>NULL</remaining>
+    <remark>https://video.crank-in.net/</remark>
+    <start_time>2020-11-27 00:00:00</start_time>
+    <subscription_duration>30</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>楽天マガジン</name>
+    <advertisement>
+      <name>無料お試し登録</name>
+      <id>19003</id>
+      <payment>240</payment>
+      <period>0</period>
+      <point>2</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>37</category_id>
+    <detail>今日から31日間お試し0円！
+楽天の定額雑誌読み放題サービスです！
+
+・人気雑誌が500誌以上読み放題！
+・月額380円、年額3,600円（ともに税抜）
+・アプリでも！PCでも！雑誌が読める
+・楽天ポイントが貯まる！ポイントで支払える！
+・気になるキーワードで記事を検索
+・読みたい雑誌がすぐ見つかる！使いやすいアプリ
+※初回登録のみ31日間お試し無料
+※31日以内に解約しない場合、課金が開始
+※【ポイントサイト】成果に対するお問合せは不可となります。</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2030-11-27 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/19252.png</icon>
+    <id>18021</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=f7aa504254c9019997bee5c4f4b075f22df1b315b3939b33af9a19bd348b39b4&amp;campaign_id=18021&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>https://magazine.rakuten.co.jp/</remark>
+    <start_time>2020-11-27 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>プレミアムTV with music.jpTV</name>
+    <advertisement>
+      <name>無料お試し登録（4日以上登録している方が成果となります。※成果反映は、月曜～日曜までの登録が次週の木曜となります(但し木曜日が祝日の場合金曜日となります。）</name>
+      <id>19004</id>
+      <payment>560</payment>
+      <period>0</period>
+      <point>4</point>
+      <requisite>3</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>37</category_id>
+    <detail>日本最大級の動画配信数を誇るmusic.jpに特典としてスマホやタブレットの保証がついたサービス【プレミアムTV with music.jp】
+最新の映画・ドラマ・アニメから懐かしの名作まで楽しめる！毎月のポイントを利用して動画をレンタル視聴！</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2030-11-27 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/19253.png</icon>
+    <id>18022</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=9975d231813dd26cad5b86d4299201173a55f4b29a5d6e05731e665b63f061d6&amp;campaign_id=18022&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>https://ptv-m.slp-contents.com/</remark>
+    <start_time>2020-11-27 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>Apple Music</name>
+    <advertisement>
+      <name>お試し無料登録</name>
+      <id>19005</id>
+      <payment>320</payment>
+      <period>0</period>
+      <point>2</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>21</category_id>
+    <detail>Apple Musicなら、7,000万以上の音楽を聴き放題！ しかも・・・
+■全曲オフライン再生対応 ！
+■広告表示なし！
+■膨大なコレクションとiTunes ライブラリの両方を全部再生できる！
+Apple Musicで好きな曲を好きなだけ再生しよう♪</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2030-11-27 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/19254.png</icon>
+    <id>18023</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=5b3d96fdafc55784ab0d173433b472ec3e0015429372f1a5385a9c0e21e466df&amp;campaign_id=18023&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>https://www.apple.com/jp/apple-music/</remark>
+    <start_time>2020-11-27 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>モバオク</name>
+    <advertisement>
+      <name>300円（税抜）コース登録</name>
+      <id>19006</id>
+      <payment>400</payment>
+      <period>0</period>
+      <point>3</point>
+      <requisite>3</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>37</category_id>
+    <detail>出品・販売手数料も無料のオークションアプリ！</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2030-11-27 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/19255.png</icon>
+    <id>18024</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=c70fe5338c2eab27f5de44865236f272468f7350f2b3e2fa2dd64dc4dfba2bba&amp;campaign_id=18024&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>https://www.mbok.jp/</remark>
+    <start_time>2020-11-27 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>ニコニコ</name>
+    <advertisement>
+      <name>500円(税抜)コース登録</name>
+      <id>19012</id>
+      <payment>1600</payment>
+      <period>0</period>
+      <point>13</point>
+      <requisite>3</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>21</category_id>
+    <detail>成果達成方法
+◆すでに一般会員の方「今すぐプレミアム会員になる」→ログイン→プレミアム会員→お支払方法を選択
+◆まだ会員ではない方「登録してプレミアム会員になる」→お手持ちのアカウントで会員登録or新規登録→お支払方法を選択&quot;
+
+ニコニコは日本最大級の動画サービスです。ひとつのアカウントがあればスマートフォン、PCなどのデバイスでいつでもどこでも好きな時にご利用頂けます。</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2030-12-01 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/19261.png</icon>
+    <id>18030</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=cf7289d27690bcbd494b80aed3a820699e253240c9bacbd72470190e2e62a225&amp;campaign_id=18030&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>500</price>
+    <remaining>NULL</remaining>
+    <remark>https://www.nicovideo.jp/</remark>
+    <start_time>2020-12-01 00:00:00</start_time>
+    <subscription_duration>30</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>つながるシネマ TV with music.jp</name>
+    <advertisement>
+      <name>有料会員登録（2ヶ月継続時初月無料）</name>
+      <id>19014</id>
+      <payment>1360</payment>
+      <period>0</period>
+      <point>11</point>
+      <requisite>3</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>37</category_id>
+    <detail>豊富なラインナップの中から動画や音楽、書籍、マンガをいつでもどこでも楽しめる配信サービスサイト「music.jp」がご利用頂けます。毎月付与される共通のポイントでお得にコンテンツを楽しめます。</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2030-12-01 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/19263.png</icon>
+    <id>18032</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=362ac2584c011791468e3d0c06bf381444bfcd678795454c182999587cd9b36f&amp;campaign_id=18032&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>https://tct-m.twp-contents.com/TsunagaruCinemaTv/lp/index.html</remark>
+    <start_time>2020-12-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>ひかりTVブック</name>
+    <advertisement>
+      <name>無料会員登録</name>
+      <id>19161</id>
+      <payment>1120</payment>
+      <period>0</period>
+      <point>9</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>21</category_id>
+    <detail>初月無料！無料期間中にもポイントがもらえるおトクなコース。
+
+月額プランのご利用で、電子書籍をお得にご利用いただけます。
+ひかりＴＶブックが発行するブックポイントは、1ポイント＝1円で当ストアで販売中の全作品の購入に充てることができます。
+あらかじめ月額ポイントを購入することで、ボーナスポイントが貯まり、本をお得に購入することができます！</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2031-01-27 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/19423.png</icon>
+    <id>18179</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=db94a3799ba28f20d8c55c522738840795b1fdd5f31071210a33f6bacad45268&amp;campaign_id=18179&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>初月無料！無料期間中にもポイントがもらえるおトクなコース。
+
+月額プランのご利用で、電子書籍をお得にご利用いただけます。
+ひかりＴＶブックが発行するブックポイントは、1ポイント＝1円で当ストアで販売中の全作品の購入に充てることができます。
+あらかじめ月額ポイントを購入することで、ボーナスポイントが貯まり、本をお得に購入することができます！</remark>
+    <start_time>2021-01-27 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>dwango.jp</name>
+    <advertisement>
+      <name>500円(税抜)コース登録</name>
+      <id>19162</id>
+      <payment>1000</payment>
+      <period>0</period>
+      <point>8</point>
+      <requisite>3</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>21</category_id>
+    <detail>ジャニーズ･J-POP･アニソン･ボカロ・ニコニコ楽曲まで充実のラインナップ♪ダウンロードした楽曲は、メール･電話･アラーム設定はもちろん、LINEやFacebookの通知音にもできます！無料音もあり♪</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2031-01-27 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/19422.png</icon>
+    <id>18180</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=4881ab7f61a3f1b803e20285705259da2a751039ddc5ef7f35f18437c4d62b09&amp;campaign_id=18180&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>ジャニーズ･J-POP･アニソン･ボカロ・ニコニコ楽曲まで充実のラインナップ♪ダウンロードした楽曲は、メール･電話･アラーム設定はもちろん、LINEやFacebookの通知音にもできます！無料音もあり♪</remark>
+    <start_time>2021-01-27 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>Point anytime</name>
+    <advertisement>
+      <name>無料会員登録後、ポイント獲</name>
+      <id>19169</id>
+      <payment>680</payment>
+      <period>0</period>
+      <point>5</point>
+      <requisite>14</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>21</category_id>
+    <detail>≪新規ご登録キャンペーン実施中≫
+■合計2,000円分以上のポイントその場でゲットキャンペーン
+　ルールはとってもカンタン！登録後24時間以内に簡単なミッションをクリアするだけ！
+
+　クリアを目指しているうちに合計1,000円分以上のポイントを貯められるうえに
+　オールクリアすると通常なら&quot;絶対有り得ない&quot;『無料(タダ)で1,000円分のポイント』を特別プレゼント！
+
+　しかも…！クリアした&quot;全て&quot;の人が必ずもらえちゃうのがスゴイ！！
+
+　初めて登録して、たった24時間で2,000円分以上のポイントを貯められるキセキ
+　体験するなら【Point anytime】しかない♪
+　
+≪【Point anytime】とは？≫
+
+■「1pt＝1円」にて『300pt』から交換できる&quot;低額交換&quot;しかも、手数料はナント【無料】
+
+■全ての広告がいつでも【高還元率】
+　2000以上の広告を掲載し、24時間いつ利用してもポイントが貯まりやすい！
+　誰でもご利用いただけるようスタッフが随時チェックをし悪質な広告は一切掲載いたしません。
+
+■SNSアカウントでも登録できる【簡単無料登録】
+　LINEをはじめ、Facebook、Google、twitterのアカウントで登録可能！
+
+■【Point anytime】をお友達に紹介してポイントゲット！
+　さらにお友達が獲得したポイントの一部も、あなたに還元されます♪
+
+貯めたポイントは、iTunesギフト・GooglePlayギフトに交換してゲームの課金アイテムを購入したり、Amazonギフトや電子マネーに交換してショッピングも楽しめます！
+
+お得なキャンペーンも随時開催中！
+【Point anytime】で毎日をもっとおトクに！
+
+【成果に関するお問い合わせについて】
+成果のお問い合わせを頂く際は、以下の内容が必要となる場合がございます。
+各スポンサーにご登録された際には、こちらの内容を必ず保管してください。
+■スポンサー名
+■申込日
+</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2031-01-27 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>18187</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=1af35c2478c199066af3229d99419740f1929299e7da281d1baf502648f1fef4&amp;campaign_id=18187&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>*CIM獲得条件*
+Point anytimeへ新規無料会員登録後サイト内の広告へ登録しポイントを獲得して成果 (どの広告でも成果対象となります) 
+※成果地点までの所要時間：約10分 
+
+&lt;成果却下条件&gt; 
+※虚偽･架空の申込
+※同一ユーザーの二回目以降の申込
+※既存会員の申込
+※過去に登録していたユーザーからの登録
+※PR広告の利用はポイント付与対象外</remark>
+    <start_time>2021-01-27 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>mieru-TV</name>
+    <advertisement>
+      <name>900円(税抜)コース登録</name>
+      <id>19170</id>
+      <payment>1600</payment>
+      <period>0</period>
+      <point>13</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>21</category_id>
+    <detail>ＷＥＢレンタルビデオサービス『ｍｉｅｒｕーＴＶ』のＷＥＢ限定プラン（初月無料条件あり）です。
+視聴可能本数は新作中心に話題作が10,000本以上
+月額900円で2,000ポイントだから還元率200％以上
+新作1本あたりは金額換算で約225円（※）と格安！
+※レンタル新作SD画質432ポイントを視聴した場合
+毎月、新作映画・ドラマが４本以上も楽しめる！
+ポイントは繰越OK！２ヶ月継続で初月無料！（※）
+※登録月解約の場合、初月分の利用料がかかります。</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2031-01-27 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/19431.png</icon>
+    <id>18188</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=9449fb1952959e0eb44ea473d2d7aea13b21589557533de1a9a9f3fb00655d09&amp;campaign_id=18188&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>900円(税抜)コース登録で成果。 
+※広告クリックから成果に至るまで、同一ブラウザで行わないと成果対象外となります。 
+※本プランは２ヶ月以上継続利用いただくことで初月無料となりますが、初月（登録月）に解約された場合、１ヶ月分のご利用料金が発生します。 
+※登録時にSMS認証が必要となります。 
+※虚偽・架空・重複・悪戯・情報不備は成果対象外とさせて頂く場合がございます。</remark>
+    <start_time>2021-01-27 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>ロードモバイル</name>
+    <advertisement>
+      <name>インストール後起動→城レベル13</name>
+      <id>19282</id>
+      <payment>2000</payment>
+      <period>0</period>
+      <point>17</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>21</category_id>
+    <detail>RPGと戦略ゲームが、完全融合した「ローモバ」！初心者からヘビーゲーマーまで全ての人が楽しめる！【ゲーム紹介】▼RPGと戦略ゲームの完全融合！キミが王《ロード》として君臨する国では個性豊かな《ヒーロー》たちが待っている。好きなヒーローを育て、冒険を進めていく《RPG》的な楽しみとヒーローをリーダーに国を育て、他プレイヤーの国と戦う《戦略ゲーム》的な楽しみが同時に味わえる、全くあたらしいゲーム体験！▼さぁ、世界一のヒーローへ！守護騎士、ハンター、森の妖精、忍者、詐欺師などキミに仕える個性的なヒーローたちは、普通の兵士と比較にならないほど、王国の発展に寄与してくれる。RPGモードの旅に出て、新たなヒーローを迎え、育てて世界にひとつだけのパーティを編成しよう。ヒーローたちの助けを借りて施設建築、技術の研究、軍隊の育成を行いながら、統治する王国を発展させれば、いよいよ、他プレイヤーとの戦争が待っている。世界中のプレイヤーとの本気のバトルはまさに、手に汗握る瞬間の連続だ！※広告掲載終了後、30日以内に達成しない場合は、成果対象外となります。</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2031-03-29 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/19547.png</icon>
+    <id>18300</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=f33e7a991a6db8f187e3fee08e7df8b0d8bdf34c1ba6ad27db3d16518b26ba51&amp;campaign_id=18300&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>アプリインストール後、起動→城レベル13で成果。
+使用中のアプリと、チャレンジ中のアプリでトラッキングが オフになっていると、ポイントが付与できなくなります。端末の下記設定で変更ができます。 「プライバシー」 ⇒「トラッキング」⇒ 「 App からのトラッキング要求を許可
+
+※成果調査の際には成果達成画面のキャプチャに対象ゲームアプリ(サイト)名を付けた物を請求させていただく場合がございます。 
+※過去、アプリをインストールされたことのある方は対象外となります。
+※成果が反映されない場合は、アプリを終了した上でバッググラウンド(タスク)を切り、もう一度起動をお願いいたします。
+※広告クリックから成果に至るまで、同一ブラウザ内で遷移されていない場合、成果対象外となります。
+※海外IPはアクセスおよび成果対象外となります。</remark>
+    <start_time>2021-03-29 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>https://www.baycrews.co.jp/</url>
+  </campaign>
+  <campaign>
+    <name>多段階</name>
+    <advertisement>
+      <name>多段階1</name>
+      <id>19296</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>1</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>1</category_id>
+    <detail>多段階</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2031-04-13 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>18314</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=c117f9fac769e049b42b7ec4be287e999d574521b0d18de40727e417d04cd59e&amp;campaign_id=18314&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>10000</remaining>
+    <remark>多段階</remark>
+    <start_time>2021-04-13 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>ロードモバイル</name>
+    <advertisement>
+      <name>インストール</name>
+      <id>19377</id>
+      <payment>800</payment>
+      <period>0</period>
+      <point>6</point>
+      <requisite>1</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>21</category_id>
+    <detail>RPGと戦略ゲームが、完全融合した「ローモバ」！初心者からヘビーゲーマーまで全ての人が楽しめる！【ゲーム紹介】▼RPGと戦略ゲームの完全融合！キミが王《ロード》として君臨する国では個性豊かな《ヒーロー》たちが待っている。好きなヒーローを育て、冒険を進めていく《RPG》的な楽しみとヒーローをリーダーに国を育て、他プレイヤーの国と戦う《戦略ゲーム》的な楽しみが同時に味わえる、全くあたらしいゲーム体験！▼さぁ、世界一のヒーローへ！守護騎士、ハンター、森の妖精、忍者、詐欺師などキミに仕える個性的なヒーローたちは、普通の兵士と比較にならないほど、王国の発展に寄与してくれる。RPGモードの旅に出て、新たなヒーローを迎え、育てて世界にひとつだけのパーティを編成しよう。ヒーローたちの助けを借りて施設建築、技術の研究、軍隊の育成を行いながら、統治する王国を発展させれば、いよいよ、他プレイヤーとの戦争が待っている。世界中のプレイヤーとの本気のバトルはまさに、手に汗握る瞬間の連続だ！※広告掲載終了後、30日以内に達成しない場合は、成果対象外となります。</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2031-05-21 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>18395</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=bb24fd0653aaf3d0c6a1c9c462e80a1834e508082ac16d4db638dea69b74790b&amp;campaign_id=18395&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>テスト</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>https://play.google.com/store/apps/details?id=com.igg.android.lordsmobile</url>
+  </campaign>
+  <campaign>
+    <name>ロードモバイル</name>
+    <advertisement>
+      <name>インストール</name>
+      <id>19378</id>
+      <payment>800</payment>
+      <period>0</period>
+      <point>6</point>
+      <requisite>1</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>31</category_id>
+    <detail>RPGと戦略ゲームが、完全融合した「ローモバ」！初心者からヘビーゲーマーまで全ての人が楽しめる！【ゲーム紹介】▼RPGと戦略ゲームの完全融合！キミが王《ロード》として君臨する国では個性豊かな《ヒーロー》たちが待っている。好きなヒーローを育て、冒険を進めていく《RPG》的な楽しみとヒーローをリーダーに国を育て、他プレイヤーの国と戦う《戦略ゲーム》的な楽しみが同時に味わえる、全くあたらしいゲーム体験！▼さぁ、世界一のヒーローへ！守護騎士、ハンター、森の妖精、忍者、詐欺師などキミに仕える個性的なヒーローたちは、普通の兵士と比較にならないほど、王国の発展に寄与してくれる。RPGモードの旅に出て、新たなヒーローを迎え、育てて世界にひとつだけのパーティを編成しよう。ヒーローたちの助けを借りて施設建築、技術の研究、軍隊の育成を行いながら、統治する王国を発展させれば、いよいよ、他プレイヤーとの戦争が待っている。世界中のプレイヤーとの本気のバトルはまさに、手に汗握る瞬間の連続だ！※広告掲載終了後、30日以内に達成しない場合は、成果対象外となります。</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2031-05-21 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>18396</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=40b471c9ab363fd9d2ba8820e38b03bba9be6c3485f188bf9ac61470751e4d67&amp;campaign_id=18396&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>テスト</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>https://apps.apple.com/jp/app/id1071976327</url>
+  </campaign>
+  <campaign>
+    <name>ビビットアーミー</name>
+    <advertisement>
+      <name>test</name>
+      <id>19470</id>
+      <payment>800</payment>
+      <period>0</period>
+      <point>6</point>
+      <requisite>1</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>21</category_id>
+    <detail>ビビットアーミー</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2031-07-26 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>18488</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=a7a333b474ca04db62f381aa3f311f3acb37a2308bec4eba401d8a1774b1dadd&amp;campaign_id=18488&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>テスト</remark>
+    <start_time>2021-07-26 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>AWA</name>
+    <advertisement>
+      <name>test</name>
+      <id>19477</id>
+      <payment>1600</payment>
+      <period>0</period>
+      <point>13</point>
+      <requisite>1</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>21</category_id>
+    <detail>AWA</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2031-08-02 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>18495</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=42dc2665952b239d790357264e514bcfb5ca0896fe24e33295f9a0da23a85607&amp;campaign_id=18495&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>AWA</remark>
+    <start_time>2021-08-02 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>クーポンぽこ</name>
+    <advertisement>
+      <name>test</name>
+      <id>19571</id>
+      <payment>800</payment>
+      <period>0</period>
+      <point>6</point>
+      <requisite>1</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>21</category_id>
+    <detail>クーポンぽこ</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2031-09-15 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>18589</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=2ea02aa2c6161474845d1d6d0985485fd5118272469b99387349dd7883f95058&amp;campaign_id=18589&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>test</remark>
+    <start_time>2021-09-15 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>オーディオブックサービス ~ListenGo~ （550円(税込)コース）</name>
+    <advertisement>
+      <name>test</name>
+      <id>19598</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>1</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>21</category_id>
+    <detail>オーディオブックサービス ~ListenGo~ （550円(税込)コース）</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2031-09-28 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>18616</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=12b2bde6830d94ba45b119f999c3694106e52ab5b1254bd8fec409b08d78acad&amp;campaign_id=18616&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>オーディオブックサービス ~ListenGo~ （550円(税込)コース）</remark>
+    <start_time>2021-09-28 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>アンケートリワード</name>
+    <advertisement>
+      <name>アンケート回答後、完了ページに遷移</name>
+      <id>20075</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>7</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>21</category_id>
+    <detail>実施期間：予定回答数が集まり次第終了させて頂きます。
+
+【アンケートについて】
+当アンケートは本アプリにおける広告効果向上のため、
+第3者機関と共に厳重な管理の元、取り扱わせていただきます。
+
+尚、当アンケート並びにそれに紐づくユーザーID、本サービスのご利用履歴データは、個人を特定する目的ではなく、お客様がより快適にご利用するためのサービス改善にのみ使用させていただきます。
+
+がうがう
+株式会社アドウェイズ
+株式会社Emotion Tech</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-03-22 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19093</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=92db4d67122495bc54fa2bcaaa17f1637703da8203c1987826036a55f4ea09a9&amp;campaign_id=19093&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>アンケート回答後、完了ページに遷移で成果となります。
+
+&lt;成果却下条件&gt;
+※広告クリックから成果に至るまで、同一ブラウザで行わないと成果対象外となります。
+※虚偽、架空の申込は成果対象外となります。
+※同一ユーザーからの二回目以降の回答は成果の対象外です。
+ 
+</remark>
+    <start_time>2022-03-22 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>受入れ確認用 テスト案件_無料</name>
+    <advertisement>
+      <name>無料会員登録</name>
+      <id>20329</id>
+      <payment>160</payment>
+      <period>0</period>
+      <point>1</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>テスト案件です</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-06-14 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19347</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=a37e94506509587b51cdd8f04122e25b6beb034420784c77beda8475e37a477a&amp;campaign_id=19347&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>テスト案件です</remark>
+    <start_time>2022-06-14 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>受入れ確認用 テスト案件_無料</name>
+    <advertisement>
+      <name>無料会員登録</name>
+      <id>20330</id>
+      <payment>120</payment>
+      <period>0</period>
+      <point>1</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>テスト案件です</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-06-14 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19348</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=003418d857fb953c60d33af530ec1f59d143a807c294670108c9adb31e6dda20&amp;campaign_id=19348&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>テスト案件です</remark>
+    <start_time>2022-06-14 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>受入れ確認用 テスト案件_無料</name>
+    <advertisement>
+      <name>無料会員登録</name>
+      <id>20331</id>
+      <payment>98</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>テスト案件です</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-06-14 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19349</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=6a9b7a6e0534af90afe0294e65a28fb2d6d3e2b6e819fdd576090b68ee48ad4b&amp;campaign_id=19349&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>テスト案件です</remark>
+    <start_time>2022-06-14 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>30日以上付与のテスト案件</name>
+    <advertisement>
+      <name>テスト</name>
+      <id>20438</id>
+      <payment>3200</payment>
+      <period>0</period>
+      <point>27</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>38</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-08-25 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19453</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=8cea67f67a9eda4077b85c60d0a0993ba3f10d929a1c1dd77f509c56c7b6bfdb&amp;campaign_id=19453&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>25</remaining>
+    <remark>テスト</remark>
+    <start_time>2022-08-25 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>30日以上付与のテスト案件</name>
+    <advertisement>
+      <name>テスト</name>
+      <id>20439</id>
+      <payment>3296</payment>
+      <period>0</period>
+      <point>28</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>38</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-08-25 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19454</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=ea9a5cb76f6cf25b3348ec6d9f870e413b03875be288c46989f3e2b015aef65e&amp;campaign_id=19454&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>24</remaining>
+    <remark>テスト</remark>
+    <start_time>2022-08-25 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>多段階テスト</name>
+    <advertisement>
+      <name>元宝の袋を購入（1,220円）</name>
+      <id>20667</id>
+      <payment>705</payment>
+      <period>0</period>
+      <point>5</point>
+      <requisite>18</requisite>
+    </advertisement>
+    <advertisement>
+      <name>元宝（大）を購入（610円）</name>
+      <id>20665</id>
+      <payment>784</payment>
+      <period>0</period>
+      <point>6</point>
+      <requisite>18</requisite>
+    </advertisement>
+    <advertisement>
+      <name>権勢50万到達</name>
+      <id>20519</id>
+      <payment>156</payment>
+      <period>0</period>
+      <point>1</point>
+      <requisite>18</requisite>
+    </advertisement>
+    <advertisement>
+      <name>権勢150万到達</name>
+      <id>20666</id>
+      <payment>705</payment>
+      <period>0</period>
+      <point>5</point>
+      <requisite>18</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>1</category_id>
+    <detail>RPGと戦略ゲームが、完全融合した「ローモバ」！初心者からヘビーゲーマーまで全ての人が楽しめる！【ゲーム紹介】▼RPGと戦略ゲームの完全融合！キミが王《ロード》として君臨する国では個性豊かな《ヒーロー》たちが待っている。好きなヒーローを育て、冒険を進めていく《RPG》的な楽しみとヒーローをリーダーに国を育て、他プレイヤーの国と戦う《戦略ゲーム》的な楽しみが同時に味わえる、全くあたらしいゲーム体験！▼さぁ、世界一のヒーローへ！守護騎士、ハンター、森の妖精、忍者、詐欺師などキミに仕える個性的なヒーローたちは、普通の兵士と比較にならないほど、王国の発展に寄与してくれる。RPGモードの旅に出て、新たなヒーローを迎え、育てて世界にひとつだけのパーティを編成しよう。ヒーローたちの助けを借りて施設建築、技術の研究、軍隊の育成を行いながら、統治する王国を発展させれば、いよいよ、他プレイヤーとの戦争が待っている。世界中のプレイヤーとの本気のバトルはまさに、手に汗握る瞬間の連続だ！※広告掲載終了後、30日以内に達成しない場合は、成果対象外となります。</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2033-11-21 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/20821.png</icon>
+    <id>19532</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=9f09871e832eecc729b2411387e15778676a6d07f65b0adfde855a7361f22bc6&amp;campaign_id=19532&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>73517</remaining>
+    <remark>多段階テスト用</remark>
+    <start_time>2022-11-21 14:05:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>http://test</url>
+  </campaign>
+  <campaign>
+    <name>多段階テスト</name>
+    <advertisement>
+      <name>城レベル10</name>
+      <id>20594</id>
+      <payment>400</payment>
+      <period>0</period>
+      <point>3</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>城レベル50</name>
+      <id>20595</id>
+      <payment>800</payment>
+      <period>0</period>
+      <point>6</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>インストール後起動2</name>
+      <id>20596</id>
+      <payment>240</payment>
+      <period>0</period>
+      <point>2</point>
+      <requisite>18</requisite>
+    </advertisement>
+    <budget_is_unlimited>true</budget_is_unlimited>
+    <category_id>1</category_id>
+    <detail>RPGと戦略ゲームが、完全融合した「ローモバ」！初心者からヘビーゲーマーまで全ての人が楽しめる！【ゲーム紹介】▼RPGと戦略ゲームの完全融合！キミが王《ロード》として君臨する国では個性豊かな《ヒーロー》たちが待っている。好きなヒーローを育て、冒険を進めていく《RPG》的な楽しみとヒーローをリーダーに国を育て、他プレイヤーの国と戦う《戦略ゲーム》的な楽しみが同時に味わえる、全くあたらしいゲーム体験！▼さぁ、世界一のヒーローへ！守護騎士、ハンター、森の妖精、忍者、詐欺師などキミに仕える個性的なヒーローたちは、普通の兵士と比較にならないほど、王国の発展に寄与してくれる。RPGモードの旅に出て、新たなヒーローを迎え、育てて世界にひとつだけのパーティを編成しよう。ヒーローたちの助けを借りて施設建築、技術の研究、軍隊の育成を行いながら、統治する王国を発展させれば、いよいよ、他プレイヤーとの戦争が待っている。世界中のプレイヤーとの本気のバトルはまさに、手に汗握る瞬間の連続だ！※広告掲載終了後、30日以内に達成しない場合は、成果対象外となります。</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-12-13 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/20821.png</icon>
+    <id>19602</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=90b19e332b3cb8ab9734927d2c37751bd349bcc5788b74da36653aa38308719d&amp;campaign_id=19602&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>注意事項</remark>
+    <start_time>2022-12-13 16:52:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>http://test</url>
+  </campaign>
+  <campaign>
+    <name>多段階テスト</name>
+    <advertisement>
+      <name>レベル100到達</name>
+      <id>20598</id>
+      <payment>400</payment>
+      <period>0</period>
+      <point>3</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <budget_is_unlimited>true</budget_is_unlimited>
+    <category_id>1</category_id>
+    <detail>RPGと戦略ゲームが、完全融合した「ローモバ」！初心者からヘビーゲーマーまで全ての人が楽しめる！【ゲーム紹介】▼RPGと戦略ゲームの完全融合！キミが王《ロード》として君臨する国では個性豊かな《ヒーロー》たちが待っている。好きなヒーローを育て、冒険を進めていく《RPG》的な楽しみとヒーローをリーダーに国を育て、他プレイヤーの国と戦う《戦略ゲーム》的な楽しみが同時に味わえる、全くあたらしいゲーム体験！▼さぁ、世界一のヒーローへ！守護騎士、ハンター、森の妖精、忍者、詐欺師などキミに仕える個性的なヒーローたちは、普通の兵士と比較にならないほど、王国の発展に寄与してくれる。RPGモードの旅に出て、新たなヒーローを迎え、育てて世界にひとつだけのパーティを編成しよう。ヒーローたちの助けを借りて施設建築、技術の研究、軍隊の育成を行いながら、統治する王国を発展させれば、いよいよ、他プレイヤーとの戦争が待っている。世界中のプレイヤーとの本気のバトルはまさに、手に汗握る瞬間の連続だ！※広告掲載終了後、30日以内に達成しない場合は、成果対象外となります。</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-12-13 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/20821.png</icon>
+    <id>19603</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=d1ebca08b35e510d20f1c3c3b7bc9491bb75f8d21a3e2c3e365d00717dcfa867&amp;campaign_id=19603&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>注意文言</remark>
+    <start_time>2022-12-13 17:52:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>http://test</url>
+  </campaign>
+  <campaign>
+    <name>SmartNews(多段階テスト))</name>
+    <advertisement>
+      <name>3日目起動</name>
+      <id>20635</id>
+      <payment>120</payment>
+      <period>0</period>
+      <point>1</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>multi_mission4</name>
+      <id>22732</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>multi_mission5</name>
+      <id>22733</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>multi_mission6</name>
+      <id>22734</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>multi_mission7</name>
+      <id>22735</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>multi_mission3</name>
+      <id>22731</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>multi_mission8</name>
+      <id>22736</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>multi_mission9</name>
+      <id>22737</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>7日目起動</name>
+      <id>20636</id>
+      <payment>280</payment>
+      <period>0</period>
+      <point>2</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <budget_is_unlimited>true</budget_is_unlimited>
+    <category_id>1</category_id>
+    <detail>test</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-12-20 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19621</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=cd883b8c715e490effc1a68df5ccb290aed1286e57a20625e3490e3d333c4ab2&amp;campaign_id=19621&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>アプリインストール後、各イベント達成で成果
+
+※過去、アプリをインストールされたことのある方は対象外となります。</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>楽天インサイト(多段階テスト))</name>
+    <advertisement>
+      <name>アンケートを3回回答</name>
+      <id>20637</id>
+      <payment>160</payment>
+      <period>0</period>
+      <point>1</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>アンケートを5回回答</name>
+      <id>20638</id>
+      <payment>400</payment>
+      <period>0</period>
+      <point>3</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <budget_is_unlimited>true</budget_is_unlimited>
+    <category_id>1</category_id>
+    <detail>test</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-12-20 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19622</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=cee079ef10f3eb705100a5898b8c960cb4bfc93129f83e7b942336c3236fdffb&amp;campaign_id=19622&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>アプリインストール後、各イベント達成で成果
+
+※過去、アプリをインストールされたことのある方は対象外となります。</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>ひまつぶしげーむ(多段階テスト)</name>
+    <advertisement>
+      <name>ステージ100クリア</name>
+      <id>20641</id>
+      <payment>160</payment>
+      <period>0</period>
+      <point>1</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>ステージ300クリア</name>
+      <id>20642</id>
+      <payment>480</payment>
+      <period>0</period>
+      <point>4</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <budget_is_unlimited>true</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>test</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-12-20 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19624</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=3f1e933b1b27a4a350347d5260582bb19fc806161e4e539530dce13295f16baf&amp;campaign_id=19624&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>アプリインストール後、各イベント達成で成果
+
+※過去、アプリをインストールされたことのある方は対象外となります。</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>アイカサ(多段階テスト)</name>
+    <advertisement>
+      <name>初回利用完了</name>
+      <id>20645</id>
+      <payment>480</payment>
+      <period>0</period>
+      <point>4</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>3回目利用完了</name>
+      <id>20646</id>
+      <payment>800</payment>
+      <period>0</period>
+      <point>6</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <budget_is_unlimited>true</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>test</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-12-20 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19627</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=adc93eca22ca67a8fa7d39e27adc823994cf734f04341e05372fcbc8cda5158b&amp;campaign_id=19627&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>アプリインストール後、各イベント達成で成果
+
+※過去、アプリをインストールされたことのある方は対象外となります。</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>Brain Test(多段階テスト)</name>
+    <advertisement>
+      <name>Lv100到達</name>
+      <id>20647</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>Lv200到達</name>
+      <id>20648</id>
+      <payment>240</payment>
+      <period>0</period>
+      <point>2</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>test</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-12-20 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19628</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=b5ba550c3e11bbd8e6ac4cb41e1f165c9608c178ff60abb9e0a7705750fc8b69&amp;campaign_id=19628&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>3332</remaining>
+    <remark>アプリインストール後、各イベント達成で成果
+
+※過去、アプリをインストールされたことのある方は対象外となります。</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>COMIC FUZ(多段階テスト)</name>
+    <advertisement>
+      <name>7日以内に100話読了</name>
+      <id>20649</id>
+      <payment>240</payment>
+      <period>0</period>
+      <point>2</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>7日以内に200話読了</name>
+      <id>20650</id>
+      <payment>480</payment>
+      <period>0</period>
+      <point>4</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <budget_is_unlimited>true</budget_is_unlimited>
+    <category_id>1</category_id>
+    <detail>test</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-12-20 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19629</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=6936555502d40bd147d3b13d14ea9b367db7c1a5a87014495b0be650a5e4bf9e&amp;campaign_id=19629&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>アプリインストール後、各イベント達成で成果
+
+※過去、アプリをインストールされたことのある方は対象外となります。</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>警察カレシ(多段階テスト)</name>
+    <advertisement>
+      <name>エンディングを1回見る</name>
+      <id>20651</id>
+      <payment>320</payment>
+      <period>0</period>
+      <point>2</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>クエストを10回クリア</name>
+      <id>20652</id>
+      <payment>560</payment>
+      <period>0</period>
+      <point>4</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <budget_is_unlimited>true</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>test</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-12-20 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19630</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=840b7157bab3606cf767e5a2be3f29800d233b0c75c4557196f47fa57ae3b44b&amp;campaign_id=19630&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>アプリインストール後、各イベント達成で成果
+
+※過去、アプリをインストールされたことのある方は対象外となります。</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>TikTok(多段階テスト)</name>
+    <advertisement>
+      <name>動画50本視聴完了</name>
+      <id>20653</id>
+      <payment>208</payment>
+      <period>0</period>
+      <point>1</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>動画100本視聴完了</name>
+      <id>20654</id>
+      <payment>400</payment>
+      <period>0</period>
+      <point>3</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <budget_is_unlimited>true</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>test</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-12-20 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19631</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=4bfa94cdc4b5bc14c8459efb62133f5c9f0caa13a7fc2d5451378516c48566ff&amp;campaign_id=19631&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>アプリインストール後、各イベント達成で成果
+
+※過去、アプリをインストールされたことのある方は対象外となります。</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>インポッシブルカート(多段階テスト)</name>
+    <advertisement>
+      <name>50ステージまでクリア</name>
+      <id>20656</id>
+      <payment>800</payment>
+      <period>0</period>
+      <point>6</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>20ステージまでクリア</name>
+      <id>20655</id>
+      <payment>1200</payment>
+      <period>0</period>
+      <point>10</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <budget_is_unlimited>true</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>test</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-12-20 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19632</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=fff58e51df724f45613fe6cb6b7168cd17ad83fb7b65fa9220f58166d4bf47e7&amp;campaign_id=19632&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>アプリインストール後、各イベント達成で成果
+
+※過去、アプリをインストールされたことのある方は対象外となります。</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>Drink Sort Master(多段階テスト)</name>
+    <advertisement>
+      <name>30日以内にNormalモードをクリア</name>
+      <id>20657</id>
+      <payment>480</payment>
+      <period>0</period>
+      <point>4</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>40日以内にAdvancedモードをクリア</name>
+      <id>20658</id>
+      <payment>800</payment>
+      <period>0</period>
+      <point>6</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <budget_is_unlimited>true</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>test</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-12-20 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19633</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=904509f47363c0e7967a85e2befd369e0e86ad26dd66265aff6a6deaf09eb192&amp;campaign_id=19633&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>アプリインストール後、各イベント達成で成果
+
+※過去、アプリをインストールされたことのある方は対象外となります。</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>Who is?(多段階テスト)</name>
+    <advertisement>
+      <name>Lv100到達</name>
+      <id>20659</id>
+      <payment>320</payment>
+      <period>0</period>
+      <point>2</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>Lv300到達</name>
+      <id>20660</id>
+      <payment>720</payment>
+      <period>0</period>
+      <point>6</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <budget_is_unlimited>true</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>test</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-12-20 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19634</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=6da958e2f4a109a72edc07477562756f430d78e00b0a1fa885d95b2eb0885299&amp;campaign_id=19634&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>アプリインストール後、各イベント達成で成果
+
+※過去、アプリをインストールされたことのある方は対象外となります。</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>Jewel mine quest(多段階テスト)</name>
+    <advertisement>
+      <name>ステージ300クリア</name>
+      <id>20661</id>
+      <payment>680</payment>
+      <period>0</period>
+      <point>5</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>ステージ500クリア</name>
+      <id>20662</id>
+      <payment>960</payment>
+      <period>0</period>
+      <point>8</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <budget_is_unlimited>true</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>test</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-12-20 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/20926.png</icon>
+    <id>19635</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=7d74760464e2a1b546e9a9083382b823650a2711dc08687e401f48ed53c2d252&amp;campaign_id=19635&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>アプリインストール後、各イベント達成で成果
+
+※過去、アプリをインストールされたことのある方は対象外となります。</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>駅メモ！ - ステーションメモリーズ！(多段階テスト)</name>
+    <advertisement>
+      <name>マスターランク10到達</name>
+      <id>20663</id>
+      <payment>392</payment>
+      <period>10</period>
+      <point>3</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>マスターランク20到達</name>
+      <id>20664</id>
+      <payment>1120</payment>
+      <period>5</period>
+      <point>9</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <budget_is_unlimited>true</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>test</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-12-20 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19636</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=1127e0e3e8d5a0301febc1a04803d09a0c415a5c0fd8800fe99c6b1768895a2c&amp;campaign_id=19636&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>100</price>
+    <remaining>NULL</remaining>
+    <remark>アプリインストール後、各イベント達成で成果
+
+※過去、アプリをインストールされたことのある方は対象外となります。</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>ようとん場mix(多段階テスト)</name>
+    <advertisement>
+      <name>ブタ10頭出荷</name>
+      <id>20634</id>
+      <payment>160</payment>
+      <period>0</period>
+      <point>1</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>ブタ5頭出荷</name>
+      <id>20633</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <budget_is_unlimited>true</budget_is_unlimited>
+    <category_id>1</category_id>
+    <detail>test</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-12-20 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19637</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=22c478f1135b4231e87add4377ef68cd4c94d8b707c8a77d153d43b643c95106&amp;campaign_id=19637&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>アプリインストール後、各イベント達成で成果
+
+※過去、アプリをインストールされたことのある方は対象外となります。</remark>
+    <start_time>2022-12-20 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>ぴんこ_Android_001</name>
+    <advertisement>
+      <name>レベル50達成</name>
+      <id>20671</id>
+      <payment>400</payment>
+      <period>0</period>
+      <point>3</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>レベル101達成</name>
+      <id>20670</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <budget_is_unlimited>true</budget_is_unlimited>
+    <category_id>38</category_id>
+    <detail>テスト用アプリ</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-12-21 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19639</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=85b411598a96ef7dab42cf941582837cb9bec4581c7687b1ab7fbfa0bf7cbc3d&amp;campaign_id=19639&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>yrdy</remark>
+    <start_time>2022-12-21 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件</name>
+    <advertisement>
+      <name>テスト</name>
+      <id>20684</id>
+      <payment>24</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>21</category_id>
+    <detail>テスト案件
+</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-12-27 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19652</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=354668e367d6594d7aa2c7dc74bec033b67ec7721d35b6fec880c61f0f3d08ba&amp;campaign_id=19652&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>テスト</remark>
+    <start_time>2022-12-27 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件</name>
+    <advertisement>
+      <name>テスト</name>
+      <id>20685</id>
+      <payment>40</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>21</category_id>
+    <detail>テスト案件
+</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-12-27 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19653</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=f08ad99e5b7b62b01a38838a65224ff6b0eec807a0b7d205be653d405bb0910a&amp;campaign_id=19653&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>テスト</remark>
+    <start_time>2022-12-27 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件</name>
+    <advertisement>
+      <name>tutorial</name>
+      <id>20691</id>
+      <payment>96</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>21</category_id>
+    <detail>テスト案件
+</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-12-28 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19659</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=9ef04d6ac925fde1336124125d134e3d48871e87339c634f67cd99e3490d3bac&amp;campaign_id=19659&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>テスト</remark>
+    <start_time>2022-12-28 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件</name>
+    <advertisement>
+      <name>テスト</name>
+      <id>20692</id>
+      <payment>88</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>21</category_id>
+    <detail>テスト案件
+</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-12-28 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19660</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=fa3d65898affaa2e7ee099a7fc92e3de91ec8812c4938f22ed3ad1a40a3e9404&amp;campaign_id=19660&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>テスト</remark>
+    <start_time>2022-12-28 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件</name>
+    <advertisement>
+      <name>tutorial</name>
+      <id>20693</id>
+      <payment>120</payment>
+      <period>0</period>
+      <point>1</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>21</category_id>
+    <detail>テスト案件
+</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2032-12-28 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19661</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=35b2587fe1e47663d9914bc002d0cf6b0f88e94614caa3d61fc1a14a40172da9&amp;campaign_id=19661&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>テスト</remark>
+    <start_time>2022-12-28 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>多段階用アプリ</name>
+    <advertisement>
+      <name>レベル10</name>
+      <id>20697</id>
+      <payment>8000</payment>
+      <period>0</period>
+      <point>68</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>1</category_id>
+    <detail>test</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2033-01-10 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19664</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=51fc8c4a839d80607ea0d89a5e7b451834d9213a69e131df0311545a4b1426be&amp;campaign_id=19664&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>998</remaining>
+    <remark>test</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件（時間見積もりあり）</name>
+    <advertisement>
+      <name>テスト</name>
+      <id>20780</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>21</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2033-02-27 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19746</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=b2ad11a993ca70aa9e14f229f257767514d9955ae98ea15ede4c9e3886294b80&amp;campaign_id=19746&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>テスト</remark>
+    <start_time>2023-02-27 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>GENIテスト</name>
+    <advertisement>
+      <name>テスト</name>
+      <id>20831</id>
+      <payment>0</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>18</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>21</category_id>
+    <detail>test</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2033-03-24 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/21084.png</icon>
+    <id>19796</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=f601e88e18830e7818464de8a4975cc0b270ad0d4c2e6af1254e0c9542219b9a&amp;campaign_id=19796&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>test</remark>
+    <start_time>2023-03-24 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>単一多段階テスト</name>
+    <advertisement>
+      <name>レベル１</name>
+      <id>20836</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>18</requisite>
+    </advertisement>
+    <budget_is_unlimited>true</budget_is_unlimited>
+    <category_id>1</category_id>
+    <detail>test</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2033-03-26 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>19800</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=7b6d2f4da95e1db30a8575d3f991845bb21be0a930924541c271f8529d387ead&amp;campaign_id=19800&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>てすと</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テストアプリ001</name>
+    <advertisement>
+      <name>イベント</name>
+      <id>21637</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>1</category_id>
+    <detail>テストアプリ
+
+https://en.wikipedia.org/wiki/Dispute_between_Darnhall_and_Vale_Royal_Abbey
+
+改行確認用1: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+改行確認用2: Loremipsumdolorsitamet,consecteturadipiscingelit,seddoeiusmodtemporincididuntutlaboreetdoloremagnaaliqua.Utenimadminimveniam,quisnostrudexercitationullamcolaborisnisiutaliquipexeacommodoconsequat.Duisauteiruredolorinreprehenderitinvoluptatevelitessecillumdoloreeufugiatnullapariatur.Excepteursintoccaecatcupidatatnonproident,suntinculpaquiofficiadeseruntmollitanimidestlaborum.
+</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2033-09-08 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/10.png</icon>
+    <id>20499</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=b0a1f9a5733de69c482c5289a1c63a0f69c7e1ab946291fc3b98a481384182a6&amp;campaign_id=20499&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>9999</remaining>
+    <remark>test</remark>
+    <start_time>2023-09-08 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>http://appdriver.jp/</url>
+  </campaign>
+  <campaign>
+    <name>（WEB）受入れ確認用 テスト案件_即時ウェブ名２行の表示ＸＸＸＸＸＸＸ</name>
+    <advertisement>
+      <name>tutorial</name>
+      <id>21742</id>
+      <payment>128</payment>
+      <period>0</period>
+      <point>1</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>テスト用案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2133-11-08 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>20604</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=cf34b47225b7525e984d3cf6b7897a8d2d8ca5c77dc536b4424107c1cc1f63d3&amp;campaign_id=20604&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2023-11-08 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>http://test</url>
+  </campaign>
+  <campaign>
+    <name>手動ポストバックテスト用</name>
+    <advertisement>
+      <name>テスト</name>
+      <id>21833</id>
+      <payment>122</payment>
+      <period>0</period>
+      <point>1</point>
+      <requisite>14</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>21</category_id>
+    <detail>手動ポストバックテスト用</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2033-12-20 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/22024.png</icon>
+    <id>20695</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=815e88bb6f857a08e9e71c45ccf6f275a6f2cbb37a95347c1d4beaea774d9b55&amp;campaign_id=20695&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>テスト</remark>
+    <start_time>2023-12-20 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（アプリ）受入れ確認用 テスト案件＿文言テスト</name>
+    <advertisement>
+      <name>インストール成果</name>
+      <id>22428</id>
+      <payment>8</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>1</category_id>
+    <detail>インストール成果</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2054-10-22 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21214</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=fac541396ae390ea44e9a541feb74c6eb4edf988a31becb518e945dd748ab937&amp;campaign_id=21214&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>9997121</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-10-22 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件(アプリ)</name>
+    <advertisement>
+      <name>テスト21</name>
+      <id>22448</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>17</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>40</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-10-23 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21234</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=c9b555392a8ff4292595f2616f51ba361622543f4c236770036c8a22f167f922&amp;campaign_id=21234&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>9986</remaining>
+    <remark>テスト</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件(アプリ)</name>
+    <advertisement>
+      <name>テスト22</name>
+      <id>22449</id>
+      <payment>8</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>40</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2054-10-23 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21235</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=a411f01d08dc57922ca7088d0cb94b978063e02b49e99a5fb3b71d2110b894da&amp;campaign_id=21235&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>9989377</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-10-23 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（WEB）有料テスト案件1000円(税抜)コース登録</name>
+    <advertisement>
+      <name>有料テスト案件1000円成果①</name>
+      <id>22450</id>
+      <payment>1600</payment>
+      <period>0</period>
+      <point>13</point>
+      <requisite>3</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>有料成果地点のテスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2054-10-23 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21236</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=71cff4b11f95a3dde0a5e6bc9b93680df30a18f4e22fd4bba5f1ddb20e63019e&amp;campaign_id=21236&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>1000</price>
+    <remaining>NULL</remaining>
+    <remark>有料コース(1000円)登録</remark>
+    <start_time>2024-10-23 00:00:00</start_time>
+    <subscription_duration>30</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>デイリーリワードテスト案件</name>
+    <advertisement>
+      <name>成果地点</name>
+      <id>22503</id>
+      <payment>8</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <budget_is_unlimited>true</budget_is_unlimited>
+    <category_id>1</category_id>
+    <detail>デイリーリワードのテスト案件用</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2034-11-14 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21288</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=b8ab8472db6826c87c18a656b64efbb7ed4956eb2099cca548c39c267029265c&amp;campaign_id=21288&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>原稿</remark>
+    <start_time>2024-11-14 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件_アプリiOS1</name>
+    <advertisement>
+      <name>テスト1</name>
+      <id>22557</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>1</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21342</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=9337ba43644918ebbdc1c50444a365f0e619de77bc72cfc08da471b211cfbea6&amp;campaign_id=21342&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>1000</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件_アプリiOS2</name>
+    <advertisement>
+      <name>テスト3</name>
+      <id>22559</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>1</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21344</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=f10988ddff05d1bfb071c52d29489fe0f25fbb8ebcbe8fdc7fb7e69fcb338a2c&amp;campaign_id=21344&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>989</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件_アプリiOS4(test 1391)</name>
+    <advertisement>
+      <name>テスト4</name>
+      <id>22560</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>1</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21345</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=6602f95fe79d48ff2ee13f518eac6d62517807a26b0f2ca80f586aaa07720c9a&amp;campaign_id=21345&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>995</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件</name>
+    <advertisement>
+      <name>テスト23</name>
+      <id>22562</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>40</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21347</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=888e48e286af8bed1eeaa77fa2dab08ddc4e0a761ceeb27678e0e7b57596c6a8&amp;campaign_id=21347&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>99995</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件</name>
+    <advertisement>
+      <name>テスト</name>
+      <id>22563</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>40</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21348</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=2161d8da919986b3a87986ac101b9b8458ccdaee15cedcc81faf8c2d2be9a67b&amp;campaign_id=21348&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>99998</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件</name>
+    <advertisement>
+      <name>テスト25</name>
+      <id>22564</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>38</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21349</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=24513ed0e398dfcbb7076b11068ae890ee224088213d1f6c749351af1b27551c&amp;campaign_id=21349&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>99998</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件</name>
+    <advertisement>
+      <name>テスト26</name>
+      <id>22565</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>38</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21350</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=d6ac1b63c315b1eee5c6117e8827136fdc9ae2b93b20c138cf1d2ce4a3d0fbdc&amp;campaign_id=21350&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>99995</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件</name>
+    <advertisement>
+      <name>テスト27</name>
+      <id>22566</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>38</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21351</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=d3bb4ad2a350a8c6c8fab0c036f87ee5a76794da3ffe27bb4d63916f0a4f1be0&amp;campaign_id=21351&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>99991</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件(アプリ)</name>
+    <advertisement>
+      <name>インストール成果</name>
+      <id>22568</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>1</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21353</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=df71ed988e71429a5e7edccee25b7db100e84d5b4ede595ff882eea4bd0b0fbd&amp;campaign_id=21353&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>999997</remaining>
+    <remark>テスト</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（アプリ）受入れ確認用 テスト案件</name>
+    <advertisement>
+      <name>テスト6</name>
+      <id>22579</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21364</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=725765020158bf690dd6c6151de89d389207406d21f3fc328cd79ca3d142a7ec&amp;campaign_id=21364&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>999994</remaining>
+    <remark>テスト</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（アプリ）テスト案件</name>
+    <advertisement>
+      <name>インストール成果</name>
+      <id>22581</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>テスト用アプリ案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21366</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=a9b4a09e02c66b9d5f1dbd10947d4640d85e04e4b7b4a6b16f127f4764104789&amp;campaign_id=21366&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>999993</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（アプリ）受入れ確認用 テスト案件</name>
+    <advertisement>
+      <name>テスト7</name>
+      <id>22582</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21367</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=943fe5ff89bdf097501c67bfd18da97d6baeba790162b2338aba8a494b4e836c&amp;campaign_id=21367&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>987</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（アプリ）受入れ確認用 テスト案件</name>
+    <advertisement>
+      <name>テスト8</name>
+      <id>22583</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21368</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=1ff00ef0a79ab777eeca37e7767f1a20e1683c65953dcd77fb4423b92fcec53e&amp;campaign_id=21368&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>997</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（アプリ）受入れ確認用 テスト案件</name>
+    <advertisement>
+      <name>テスト9</name>
+      <id>22584</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21369</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=befac895cb01432ada7891f1dc29625bd11420b145690a3fa234dfbb2e5575ec&amp;campaign_id=21369&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>998</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（アプリ）受入れ確認用 テスト案件</name>
+    <advertisement>
+      <name>テスト10</name>
+      <id>22585</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21370</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=bfcc3b363448be3d889aa74f2e2ce27292576639e61646fcd9b95bbee3b92969&amp;campaign_id=21370&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>1000</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（アプリ）受入れ確認用 テスト案件</name>
+    <advertisement>
+      <name>テスト11</name>
+      <id>22586</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21371</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=bb575b9d50497db70ad3988e843fa0b53c79e4653691c7c825ce2fc1a476b211&amp;campaign_id=21371&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>1000</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（アプリ）受入れ確認用 テスト案件</name>
+    <advertisement>
+      <name>テスト13</name>
+      <id>22588</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21373</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=330760e90ccb9799baa0169036b7b31bdba9ed61e6c033fe653f601e33e5aa8e&amp;campaign_id=21373&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>998</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（アプリ）受入れ確認用 テスト案件</name>
+    <advertisement>
+      <name>テスト14</name>
+      <id>22589</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21374</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=7cb3aa8d5813cc461bea353e6d941075e8fb153eace36d5f82db2a48e2de0eb5&amp;campaign_id=21374&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>998</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（アプリ）受入れ確認用 テスト案件</name>
+    <advertisement>
+      <name>テスト15</name>
+      <id>22590</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21375</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=2fe5d72223d632131a986b612afb274557405623f29a29808b21f7331a0cebdc&amp;campaign_id=21375&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>997</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（アプリ）受入れ確認用 テスト案件</name>
+    <advertisement>
+      <name>テスト16</name>
+      <id>22591</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21376</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=9c6bfea99f60d369485e42045e5275538a218ecd0b4c61c404335971d3e965c2&amp;campaign_id=21376&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>999</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（アプリ）受入れ確認用 テスト案件</name>
+    <advertisement>
+      <name>テスト17</name>
+      <id>22592</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21377</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=7ea14299e63b29caf2785453c000dc01b1d9315d5c16e2957453699712fb2871&amp;campaign_id=21377&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>1000</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（アプリ）受入れ確認用 テスト案件</name>
+    <advertisement>
+      <name>テスト18</name>
+      <id>22593</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21378</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=88323df619b659df9ff5863285f963c3f9a6ec6c9c830cf0e5d5d9ed0e160b1e&amp;campaign_id=21378&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>998</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件(アプリ)</name>
+    <advertisement>
+      <name>テスト28</name>
+      <id>22594</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>40</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21379</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=9a8aee1d106d40f7ef836039374a01e3390deacf3092ff5cf3392d91535d9178&amp;campaign_id=21379&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>99999</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（アプリ）受入れ確認用 テスト案件</name>
+    <advertisement>
+      <name>テスト19</name>
+      <id>22595</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>6</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21380</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=b9934b7f29b745cf322727c0fb4af12c1f85a529a471b153fc0a35707c6b8b10&amp;campaign_id=21380&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>995</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件(アプリ)</name>
+    <advertisement>
+      <name>テスト29</name>
+      <id>22596</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>40</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21381</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=def63788b53e5d9c3088075a75a77426b0516a95cc1ad23afecbec647f101819&amp;campaign_id=21381&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>99995</remaining>
+    <remark>テスト案件
+</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件(アプリ)</name>
+    <advertisement>
+      <name>テスト30</name>
+      <id>22597</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>17</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>40</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21382</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=bb3297c9f47ed2cb1eccd355886d39a249c35efcadf958f438d7324b50e0c47c&amp;campaign_id=21382&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>9997</remaining>
+    <remark>テスト</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件(アプリ)</name>
+    <advertisement>
+      <name>テスト31</name>
+      <id>22598</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>17</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>40</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21383</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=5ecf475a3e75c72e773b1839315db86adf56e62a8020111aff71b853a1a83c09&amp;campaign_id=21383&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>9998</remaining>
+    <remark>テスト</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件(アプリ)</name>
+    <advertisement>
+      <name>テスト32</name>
+      <id>22599</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>17</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>40</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21384</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=273462867cdba85e2b5c9ef7a58cc8d93e7bc0f158cd0081cd2ac0cd11d32cb1&amp;campaign_id=21384&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>9999</remaining>
+    <remark>テスト</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件(アプリ)</name>
+    <advertisement>
+      <name>テスト33</name>
+      <id>22600</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>17</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>40</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21385</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=c96de9df9fd976c0e37fda1058b0dd64009735d0a252bb4d630a70d487ffafef&amp;campaign_id=21385&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>9999</remaining>
+    <remark>テスト</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件(アプリ)</name>
+    <advertisement>
+      <name>テスト34</name>
+      <id>22601</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>17</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>40</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21386</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=791fefbcf7e464a2f75d099e603f06c2bf3e223cf9e1fb986d248b9ce748fc5c&amp;campaign_id=21386&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>9998</remaining>
+    <remark>テスト</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件(アプリ)</name>
+    <advertisement>
+      <name>テスト35</name>
+      <id>22602</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>17</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>40</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21387</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=803f416a484ddd7cdcc5fbf392ce0db4786c832dc999eea500c1ccee67008703&amp;campaign_id=21387&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>9998</remaining>
+    <remark>テスト</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件(アプリ)</name>
+    <advertisement>
+      <name>テスト36</name>
+      <id>22603</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>17</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>40</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21388</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=51f5a62fd4776f38dc5069f54356773254abbfeead2ee4b6fcdfd1436297c657&amp;campaign_id=21388&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>9998</remaining>
+    <remark>テスト</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件(アプリ)</name>
+    <advertisement>
+      <name>テスト37</name>
+      <id>22604</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>17</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>40</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21389</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=ca3f5ae30e69789dd905353dd1b2e1092ba46c28cc2914e8b69090eb57e4f382&amp;campaign_id=21389&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>9998</remaining>
+    <remark>テスト</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件(アプリ)</name>
+    <advertisement>
+      <name>テスト38</name>
+      <id>22605</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>17</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>40</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21390</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=48470f11fa39b9b18615a041e5e4e2b5cd07b1e118de929f0d83d9081b9f05b5&amp;campaign_id=21390&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>9996</remaining>
+    <remark>テスト</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（WEB）有料テスト案件1000円(税抜)コース登録</name>
+    <advertisement>
+      <name>有料テスト案件1000円成果②</name>
+      <id>22606</id>
+      <payment>1600</payment>
+      <period>0</period>
+      <point>13</point>
+      <requisite>3</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>有料成果地点のテスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21391</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=d0d79ff97c6882a9c5cc4f4de170f3102f5e1547184a76faa32c7ba442223eb9&amp;campaign_id=21391&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>1000</price>
+    <remaining>NULL</remaining>
+    <remark>テスト</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>30</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件(アプリ)</name>
+    <advertisement>
+      <name>テスト39</name>
+      <id>22607</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>40</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21392</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=315d10093bc8ba5e053956013967818fae37e1165d1688afacadc25f83a3e086&amp;campaign_id=21392&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>99997</remaining>
+    <remark>テスト案件
+</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件(アプリ)</name>
+    <advertisement>
+      <name>テスト40</name>
+      <id>22608</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>40</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21393</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=683cadb083e04cd97bc00e48a3f29b368cb02906eff78c6ffbc8f90eb167fc3f&amp;campaign_id=21393&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>99997</remaining>
+    <remark>テスト案件
+</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>テスト案件(アプリ)</name>
+    <advertisement>
+      <name>テスト41</name>
+      <id>22609</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>40</category_id>
+    <detail>テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21394</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=1ef06a049fc8f4954d57e2c4fd9380fa21b481cca74e19414c017a97c26625d5&amp;campaign_id=21394&amp;_identifier=</location>
+    <market>1</market>
+    <platform>3</platform>
+    <price>0</price>
+    <remaining>99992</remaining>
+    <remark>テスト案件
+</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（WEB）有料テスト案件1000円(税抜)コース登録</name>
+    <advertisement>
+      <name>有料テスト案件1000円成果③</name>
+      <id>22610</id>
+      <payment>1600</payment>
+      <period>0</period>
+      <point>13</point>
+      <requisite>3</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>有料成果地点のテスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21395</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=0e9bbdf4d10970311d0bce29488686b3b0b3a9a9a1b6863a306d01a82f9a98b1&amp;campaign_id=21395&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>1000</price>
+    <remaining>NULL</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>30</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（WEB）有料テスト案件1000円(税抜)コース登録</name>
+    <advertisement>
+      <name>有料テスト案件1000円成果④</name>
+      <id>22611</id>
+      <payment>1600</payment>
+      <period>0</period>
+      <point>13</point>
+      <requisite>3</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>有料成果地点のテスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21396</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=f83630b61d77a6c2d181095c78d111e359252b0cfd6b43cb80266fa2ccc9a45a&amp;campaign_id=21396&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>1000</price>
+    <remaining>NULL</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>30</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（WEB）有料テスト案件1000円(税抜)コース登録</name>
+    <advertisement>
+      <name>有料テスト案件1000円成果⑤</name>
+      <id>22612</id>
+      <payment>1600</payment>
+      <period>0</period>
+      <point>13</point>
+      <requisite>3</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>有料成果地点のテスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21397</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=eecc34ee2dfc86c288d3b03f0f4c191c804717cc96e6375edc224148c74bbd27&amp;campaign_id=21397&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>1000</price>
+    <remaining>NULL</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>30</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（WEB）有料テスト案件1000円(税抜)コース登録</name>
+    <advertisement>
+      <name>有料テスト案件1000円成果⑥</name>
+      <id>22613</id>
+      <payment>1600</payment>
+      <period>0</period>
+      <point>13</point>
+      <requisite>3</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>有料成果地点のテスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21398</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=123f38066b463f4dee561e3744840bcf2a95b3f5d249012c1c0c53932c3886df&amp;campaign_id=21398&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>1000</price>
+    <remaining>NULL</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>30</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（WEB）有料テスト案件1000円(税抜)コース登録</name>
+    <advertisement>
+      <name>有料テスト案件1000円成果⑦</name>
+      <id>22614</id>
+      <payment>1600</payment>
+      <period>0</period>
+      <point>13</point>
+      <requisite>3</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>有料成果地点のテスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21399</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=f554b863f84c7c30c32b12d6bf254df6e479a83e6e83445a0557aded724c681a&amp;campaign_id=21399&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>1000</price>
+    <remaining>NULL</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>30</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（WEB）有料テスト案件1000円(税抜)コース登録</name>
+    <advertisement>
+      <name>有料テスト案件1000円成果⑧</name>
+      <id>22615</id>
+      <payment>1600</payment>
+      <period>0</period>
+      <point>13</point>
+      <requisite>3</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>有料成果地点のテスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21400</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=d9a58fbaa52c75902f91233240279f5918219d2de02b5f1fb80db69044b08280&amp;campaign_id=21400&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>1000</price>
+    <remaining>NULL</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>30</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（WEB）有料テスト案件1000円(税抜)コース登録</name>
+    <advertisement>
+      <name>有料テスト案件1000円成果⑨</name>
+      <id>22616</id>
+      <payment>1600</payment>
+      <period>0</period>
+      <point>13</point>
+      <requisite>3</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>有料成果地点のテスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21401</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=027d1520e10f04f14a1ef50eeb1760df4c176effa36cf905d494cd68ce74dab0&amp;campaign_id=21401&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>1000</price>
+    <remaining>NULL</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>30</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（WEB）有料テスト案件1000円(税抜)コース登録</name>
+    <advertisement>
+      <name>有料テスト案件1000円成果⑩</name>
+      <id>22617</id>
+      <payment>1600</payment>
+      <period>0</period>
+      <point>13</point>
+      <requisite>3</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>有料成果地点のテスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-06 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21402</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=4546f2aed3922a7f1f2d32b07aa4ec56c78afa677c87f831f1dbcec628071844&amp;campaign_id=21402&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>1000</price>
+    <remaining>NULL</remaining>
+    <remark>テスト案件</remark>
+    <start_time>2024-12-06 00:00:00</start_time>
+    <subscription_duration>30</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（WEB）受入れ確認用 テスト案件_即時ウェブ名２行の表示ＸＸＸＸＸＸＸ</name>
+    <advertisement>
+      <name>テスト1</name>
+      <id>22644</id>
+      <payment>8</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>テスト用案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-20 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21429</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=716f28b2e36fd4a05fa02beff79f79f27279ed7efdb060feb94e0ce9fdb5aa22&amp;campaign_id=21429&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>テスト</remark>
+    <start_time>2024-12-20 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>http://test</url>
+  </campaign>
+  <campaign>
+    <name>（WEB）受入れ確認用 テスト案件_即時ウェブ名２行の表示ＸＸＸＸＸＸＸ</name>
+    <advertisement>
+      <name>テスト4</name>
+      <id>22645</id>
+      <payment>8</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>テスト用案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-20 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21430</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=a2854f44846eab46fe875f7420a1756d47449e636a7abe018d34588795633537&amp;campaign_id=21430&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>テスト</remark>
+    <start_time>2024-12-20 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>http://test</url>
+  </campaign>
+  <campaign>
+    <name>（WEB）受入れ確認用 テスト案件_即時ウェブ名２行の表示ＸＸＸＸＸＸＸ</name>
+    <advertisement>
+      <name>テスト5</name>
+      <id>22646</id>
+      <payment>8</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>テスト用案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-20 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21431</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=0c8fc96d80b4486aa22cd3b8aa026d93747c5f4e41af1b80fb6d125e480bc0a2&amp;campaign_id=21431&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>テスト</remark>
+    <start_time>2024-12-20 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>http://test</url>
+  </campaign>
+  <campaign>
+    <name>（WEB）受入れ確認用 テスト案件_即時ウェブ名２行の表示ＸＸＸＸＸＸＸ</name>
+    <advertisement>
+      <name>テスト6</name>
+      <id>22647</id>
+      <payment>8</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>テスト用案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-20 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21432</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=cedb15a4b1650ce526fda7dbf6c30ea0820de76fca1f5b28645f652dff7524e2&amp;campaign_id=21432&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>テスト</remark>
+    <start_time>2024-12-20 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>http://test</url>
+  </campaign>
+  <campaign>
+    <name>（WEB）受入れ確認用 テスト案件_即時ウェブ名２行の表示ＸＸＸＸＸＸＸ</name>
+    <advertisement>
+      <name>テスト7</name>
+      <id>22648</id>
+      <payment>8</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>テスト用案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-20 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21433</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=9b81347eb753d4500d521e089f7cdaba5461fe7c5d9412a0d0fd704c1cb69a5a&amp;campaign_id=21433&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>テスト</remark>
+    <start_time>2024-12-20 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>http://test</url>
+  </campaign>
+  <campaign>
+    <name>（WEB）受入れ確認用 テスト案件_即時ウェブ名２行の表示ＸＸＸＸＸＸＸ</name>
+    <advertisement>
+      <name>テスト2</name>
+      <id>22649</id>
+      <payment>80</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>テスト用案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2034-12-20 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21434</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=be3ce0cb551b96a3aad8e8e9dbedc2f3aea764b60e7ab4b610d0e66d9a3f64d6&amp;campaign_id=21434&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>テスト</remark>
+    <start_time>2024-12-20 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>http://test</url>
+  </campaign>
+  <campaign>
+    <name>多段階用アプリ</name>
+    <advertisement>
+      <name>城レベル20</name>
+      <id>22689</id>
+      <payment>480</payment>
+      <period>0</period>
+      <point>4</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>城レベル60</name>
+      <id>22690</id>
+      <payment>880</payment>
+      <period>0</period>
+      <point>7</point>
+      <requisite>22</requisite>
+    </advertisement>
+    <advertisement>
+      <name>インストール後起動2</name>
+      <id>22691</id>
+      <payment>240</payment>
+      <period>0</period>
+      <point>2</point>
+      <requisite>18</requisite>
+    </advertisement>
+    <budget_is_unlimited>true</budget_is_unlimited>
+    <category_id>1</category_id>
+    <detail>test</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2035-01-15 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21468</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=bf8b5a370f469674c29fe46e3f598d61b3fd22c627e5d17c747021b0eaf4e875&amp;campaign_id=21468&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>注意事項</remark>
+    <start_time>2025-01-15 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（WEB）受入れ確認用 テスト案件</name>
+    <advertisement>
+      <name>test</name>
+      <id>22694</id>
+      <payment>144</payment>
+      <period>0</period>
+      <point>1</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>test</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2035-01-17 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21471</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=8de283bff98275069b8d39feb90b0e3b271bdc0096c3aae0cc458f297912508c&amp;campaign_id=21471&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>test</remark>
+    <start_time>2025-01-17 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（WEB）テスト案件</name>
+    <advertisement>
+      <name>test</name>
+      <id>22695</id>
+      <payment>120</payment>
+      <period>0</period>
+      <point>1</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>true</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>テスト用WEB案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2035-01-17 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21472</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=62acb678d9f039c812b70dc1f27537c1dc4b16993932cfd3ca32da9dafb40ab2&amp;campaign_id=21472&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>テスト用WEB案件</remark>
+    <start_time>2025-01-17 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>受入れ確認用 テスト案件_2</name>
+    <advertisement>
+      <name>test</name>
+      <id>22698</id>
+      <payment>440</payment>
+      <period>0</period>
+      <point>3</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>test</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2035-01-17 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21475</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=a2ae991127c39517461ff7dbc989615263d546004807404a1d1de3aa46d97af5&amp;campaign_id=21475&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>test</remark>
+    <start_time>2025-01-17 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>（WEB）受入れ確認用 テスト案件</name>
+    <advertisement>
+      <name>test</name>
+      <id>22700</id>
+      <payment>176</payment>
+      <period>0</period>
+      <point>1</point>
+      <requisite>2</requisite>
+    </advertisement>
+    <budget_is_unlimited>true</budget_is_unlimited>
+    <category_id>22</category_id>
+    <detail>test</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2045-01-17 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21477</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=99febaf31f555944c22863f54d07ab4ba2aa768aa0612a33d42829800bd108b1&amp;campaign_id=21477&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>test</remark>
+    <start_time>2025-01-17 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <campaign>
+    <name>ケンタッキーフライドチキン公式モバイルアプリ</name>
+    <advertisement>
+      <name>新規インストール後、無料会員登録</name>
+      <id>22721</id>
+      <payment>51</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>137</category_id>
+    <detail>【期間限定！新規登録者全員もらえる！】
+「KFCネットオーダー」の新規会員登録者限定
+「オリジナルチキン」が100円で購入できる
+ネットオーダー限定クーポンをプレゼント！
+※2025年4月30日(水)まで
+
+■KFCアプリでいつでもどこでも簡単注文が可能！
+■おトクなクーポンも盛りだくさん！
+■チキンマイルやPonta・楽天ポイントも貯まる
+■最新のメニューチェックや、近くのケンタッキー探しにも便利！</detail>
+    <duplication_type>0</duplication_type>
+    <end_time>2035-01-30 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/22805.png</icon>
+    <id>21498</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=d61457c650b8078fd06d56343dcf90a21fb17801a4f664313de86f154b9bddbc&amp;campaign_id=21498&amp;_identifier=</location>
+    <market>7</market>
+    <platform>2</platform>
+    <price>0</price>
+    <remaining>1562500</remaining>
+    <remark>新規アプリインストール後、7日以内に無料会員登録で成果。
+【成果受付期間】インストール後、7日以内
+【成果調査受付期間】広告クリック後、21日以内
+
+※使用中のアプリと、チャレンジ中のアプリでトラッキングが オフになっていると、ポイントが付与できなくなります。端末の下記設定で変更ができます。 「プライバシー」 ⇒「トラッキング」⇒ 「 App からのトラッキング要求を許可
+※過去、アプリをインストールされたことのある方は対象外となります。
+※成果が反映されない場合は、アプリを終了した上でバッググラウンド(タスク)を切り、もう一度起動をお願いいたします。
+※広告クリックから成果に至るまで、同一ブラウザ内で遷移されていない場合、成果対象外となります。
+※海外IPはアクセスおよび成果対象外となります。
+※成果調査には下記が必要になります。
+■インストール後の会員証のキャプチャ</remark>
+    <start_time>2010-01-01 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url>https://apps.apple.com/jp/app/id519131315</url>
+  </campaign>
+  <campaign>
+    <name>多段階テスト案件</name>
+    <advertisement>
+      <name>テスト</name>
+      <id>22777</id>
+      <payment>8</payment>
+      <period>0</period>
+      <point>0</point>
+      <requisite>15</requisite>
+    </advertisement>
+    <budget_is_unlimited>false</budget_is_unlimited>
+    <category_id>37</category_id>
+    <detail>多段階成果地点用テスト案件</detail>
+    <duplication_type>1</duplication_type>
+    <end_time>2035-02-26 23:59:59</end_time>
+    <icon>https://ssl-sandbox.image.appdriver.jp/static/images/site/default.png</icon>
+    <id>21537</id>
+    <location>http://sandbox.appdriver.jp/3.0.23154c?media_id=3734&amp;digest=a21e0b6867782fca9fae3ab55136c33a05abd2efb2bcbffad6ef7f818af0a4b5&amp;campaign_id=21537&amp;_identifier=</location>
+    <market></market>
+    <platform>1</platform>
+    <price>0</price>
+    <remaining>NULL</remaining>
+    <remark>多段階プロモーションテスト案件</remark>
+    <start_time>2025-02-26 00:00:00</start_time>
+    <subscription_duration>0</subscription_duration>
+    <url></url>
+  </campaign>
+  <last_update>2025-10-29 18:42:48</last_update>
 </data>
